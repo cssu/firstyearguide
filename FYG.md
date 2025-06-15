@@ -49,7 +49,7 @@ University can be exciting, but also daunting, especially in your first year. We
 5. [Program Admission (Formerly Subject POSt)](#admission-to-a-program) (AKA most speculative/invisible monster to terrorize students in all of Canada or even the world that got a rework into a much nicer thing but is still worth paying attention to)
 6. [Mental health](#mental-health) (Really important to read and understand, it's real and we need to talk about it)
 7. [How to get involved?](#how-to-get-involved) (or how to get a balance in your life, have fun, and make friends)
-8. [Jobs/Internships/PEY](#jobs-internships-and-pey-co-op) (or how and when to get some real-world experience)
+8. [Jobs/Internships](#jobs-internships-and-pey-co-op) (or how and when to get some real-world experience)
 9. [Links to Know](#important-links) (KEEP THESE HANDY)
 10. [Finances](#finances) (Why CS costs more and how to reduce these costs)
 11. [Parting Words](#parting-words)
@@ -444,8 +444,6 @@ So yes, everyone wants to get some experience in “the real world” and make m
 If your interested in doing Computer Science research, then there are a lot of research opportunities for students if you are persistent enough to pursue them. UofT is famous for their researchers and the research and you'll be with some of the best researchers in the field. Research is not just for students going for graduate school as companies are now researching in fields as well. After your first year, there are second-year research programs run by the Faculty of Arts and Science [click for more details](https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program) where you can get real research experience and a course credit, either in the summer after first year, or during your second-year. There are also a lot of open source projects which you can contribute to, both at U of T (PyTA, MarkUs…) and outside of university (Google’s Summer of Code is a great place to find open source projects, and Google pays students during the summer for working with them).
 
 For more information on undergrad research listen to Room 2250's Episode on [Research with Prof. Jacobson](https://open.spotify.com/episode/21sur5j3l2h23IFP5E0Fp4).
-
-The Professional Experience Year Co-op Program, administered by the Engineering Career Centre, is another option which you can consider after your second-year, or after your third-year of studies. It's basically a 12-16 month paid position where you work at a company (you do have to apply and interview for a position, one won’t be given to you), and get some experience before you complete your studies. For more information about PEY Co-op for computer science, visit [the department page](https://web.cs.toronto.edu/undergraduate/pey) and [the Engineering Career Centre site](http://engineeringcareers.utoronto.ca/work-experience-programs/professional-experience-year-co-op-program-pey-co-op/) for more information and stats.
 
 In previous years, students would be able to access the Professional Experience Year Co-op Program (or PEY for short) - in short, this was a program where students finishing their 2nd or 3rd years could work for a 12-16 month period at a relevant company for experience and, of course, money! In recent years, however, this has been replaced with ASIP;
 
