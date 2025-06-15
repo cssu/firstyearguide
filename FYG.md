@@ -348,7 +348,7 @@ To quote from the department itself:
 The requirements as quoted from the ArtSci Calendar are:
 
 > Special Requirement
-> Students who do not have the Computer Science Admission Guarantee must complete a supplementary application to be considered for the program.
+> Students who do not have the Computer Science Admission Guarantee must complete a supplementary application to be considered for the program. Students who do not submit the supplemental application in time will not be considered for the CS Major/Minor.
 >
 > Variable Minimum Grade:\
 > A minimum grade is needed for entry, and this minimum changes each year depending on available spaces and the number of applicants. The following courses must be completed:
@@ -364,7 +364,7 @@ The requirements as quoted from the ArtSci Calendar are:
 So after reading this, most students panic and ask: “What's the cutoff?” Well, we wish we could give you an answer, and we wish that the department could give an answer, but it’s not that easy.
 
 - The cutoff is not an arbitrary number, say 60 or 75, like some other programs. In reality, the cutoff for CS is the top x number of student averages from 148 and 165 that have applied to the CS program who are not in-stream, where x is the number of spots in the program for that year after in- streams have been admitted.
-- The specialist/major cutoff for 2018 was 83 for in stream students and 86 for out of stream students. For the CS minor, the cutoff was 80 for both in stream and out of stream students. This may go up or down in the upcoming years depending on future circumstances.
+- The cutoff for CS Major in 2024-2025 was around an 86 for out of stream students. For the CS minor, the cutoff was around an 80. This may go up or down in the upcoming years depending on future circumstances.
 - This is high. Is it impossible, no. So is it doable? Yes, but only if you put a lot of work and effort into the required courses.
 - The number of program spaces has remained relatively constant over the last two years, and there are more program spaces available than the number of students in the first-year computer science admission stream.
 - There is no reason to be scared, as the instructors are not there to weed students out. They are there instead, to make sure that you are prepared, and that you understand the content well.
