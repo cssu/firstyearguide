@@ -318,10 +318,6 @@ Ok, now for the big CS elephant in the room – admission to the program, which 
 
 Here at St. George, the Faculty of Arts & Science has this policy in which it encourages the exploration of different fields, and makes it easy for students to switch majors and subjects after their first-year. This is the reason why you can’t choose your Majors/Minors until the end of first-year. The issue with Computer Science admission is that there are not enough resources/spaces to give every student who wants to choose CS after their first-year a spot, so the department has to institute a certain cut-off average as a requirement for students to get into the program.
 
-There are two separate set of requirements depending on whether you are in stream or not. (In stream meaning you have been admitted to computer science from high school). **THIS IS BRAND NEW FOR THE 2020-2021 ACADEMIC YEAR** and represents a significant change from years prior.
-
-Listen to the Room 2250 Podcast Episode with Undergrad Chair Michelle Craig to talk about the new changes [here](https://open.spotify.com/episode/6uO80FhdIXgiE9VWxywJdN)
-
 #### In-stream
 
 Requirements as quoted from the ArtSci Calendar are:
@@ -375,16 +371,16 @@ They also ask what's the supplementary given information from what happened the 
 
 For more info visit the [CS Department Admissions Page](http://web.cs.toronto.edu/program/ugrad/admission.htm)
 
-#### _NEW_ What if I want to pursue Data Science?
+####What if I want to pursue Data Science?
 
 Data Science is a recently added specialty that is co-offered by the Department of Statistics and Computer Science. As quoted from the [calendar](https://fas.calendar.utoronto.ca/section/Computer-Science#programs_view-block_2-0) The Data Science Specialist program prepares students for work in the Data Science industry or government and for graduate studies in Data Science, Computer Science, or Statistics. Students in the program will benefit from a range of advanced courses in Computer Science and Statistics offered by the University of Toronto, as well as from a sequence of three integrative courses designed especially for the program.
 
 There are specific admission requirements that first years must complete on top of the existing CS requirements.
 
-> CSC110Y1 and CSC111H1 or CSC148 and CSC165\
+> CSC110Y1 and CSC111H1 or CSC148\
 >  MAT137Y1 or​ MAT157Y1\
 >  **STA130H1** \*
-
+\* Please note that while CSC165 is not required at the time of application to the Data Science Specialist program, it remains a program requirement and is a prerequisite for CSC236. If you are not planning on taking CSC240, it is highly recommended that you take CSC165 in winter of your first year.
 \* This course is the additional course requirement that differentiates CS and Data Science you must take the course in your first year to qualify for the stream benefits
 
 To ensure that students admitted to the program will be successful, applicants will not be considered for admission with a grade lower than 70% in CSC110Y1, CSC148, CSC165, MAT137Y1, and STA130H1, or lower than 77% in CSC111H1. ( MAT157Y1 grades will be adjusted to account for the course's greater difficulty.) Obtaining these minimum grades does not guarantee admission to the program.
