@@ -153,20 +153,19 @@ This means that you must plan your course load accordingly. If your following a 
 
 There are a lot of areas in CS and a lot of courses that range from theory to networking to graphics and everything in between. [Courseography](https://courseography.cdf.toronto.edu/graph) is an open-source project started by Prof. David Liu that charts out all the CS courses and program areas with their prerequisites. You could look at what upper year courses interest you and take their necessary prerequisites. Note that the course offerings have not been updated to reflect the new courses for 2020 school year (as of publishing) and as always the [calendar](https://fas.calendar.utoronto.ca/section/Computer-Science) is the place for the most up to date and official information.
 
-##### What is a focus and FTLI?
+##### What is a focus?
 
-Focuses are available for students in the specialist (for designation). Major students use these as a guide for seeing what area's exist and relevant courses that relate to certain areas. They are not mandatory and can be added at any time as long as your in the specialist and have taken the required courses. Even if you are not enrolled in the specialist program, following the courses listed in a focus is a good general guide to take courses and learn relevant subject matter in a specific topic of CS.
+CS Majors and Specialists can optionally choose to enroll in one or more Focuses within computer science, as listed on the [academic calendar] (https://artsci.calendar.utoronto.ca/section/Computer-Science). The Focuses help students explore different areas of computer science in a guided way and allow students to formally show expertise in certain fields. You may choose to enroll in a focus at any time. 
 
-For incoming 2nd-year CS Majors/Specialists and Data Science Specialists, you have the option of enrolling the Focus in Technology Leadership (FTLI); essentially, this is a focus designed to train students specifically towards leadership roles and the tech industry in general. To enter this focus, you'll have to be interviewed and send in a tailored application describing why you'd be a good fit for the focus - not too dissimilar from a university or job application. 
-Once you're in, FTLI has two big draws - 
+For most Focuses, all CS specialists and Major can enroll automatically at any point in their degree. However, to enroll in the [Focus in Technology Leadership (FTLI)](https://www.technologyleadershipinitiative.com/), students must complete a special application form and successfully pass any interviews. FTLI aims to prepare students to take on leadership roles within the tech industry. Currently, FTLI accepts about 30 students for each cohort, though they may possibly expand in future years.
+
+Once you're in, FTLI has two big draws: 
 1. Industry-integrated learning
-	Enrolled students must complete two specialized courses exclusively for FTLI students; that is, an industry-focused variant CSC207H1: Software Design and CSC308H1: Technology leadership. Of note, the project students will make for CSC207 will involve a company internship through one of their many industry partners.
+	Enrolled students must complete two specialized courses exclusively for FTLI students: the industry-focused variant of CSC207H1: Software Design and CSC308H1: Technology leadership. FTLI's version of CSC207 involves an industry-integrated project that past cohorts have found extremely valuable in developing both technical and soft skills.
 
 2. Industry experience and workshops
-	Fundamentally, FTLI is focused on networking and setting up students for work opportunities; the Department of Computer Science hosts tons of leadership workshops in addition to TLI-focused lectures with guest speakers and having a board full of industry partners, whom you can connect to for internships or other work terms.
+	FTLI frequently hosts networking events and workshops to help students build skills that are essential to leadership in tech. The program also provides support and mentorship in navigating the internship search. 
 
-Do note that traditionally, the cohort for FTLI is quite small, no more than a few dozen at a time, and that 
-More information on FTLI can be found [here](https://www.technologyleadershipinitiative.com/).
 ##### Breadth Courses
 
 To get your degree at UofT on top of completing 20 Credits and fulfilling a degree combination of at least a Specialist/2 Majors/1 Major + 2 Minors, you must complete Breadth Requirements:
