@@ -197,7 +197,7 @@ Students creating a JetBrains account with their U of T email gives them access 
 Depending on your course, certain libraries/packages may need to be installed; for further details, please refer to your course syllabus when it is published around the start of classes.
 
 ### GitHub and Version Control
-[Github](https://github.com/) is a platform commonly used for programming projects, both independent and collaborative. GitHub functions as a platform to upload and host project files for you and your team while being able to remotely and simultaneously update, download, and work on code. While not necessary, I *highly* 
+[Github](https://github.com/) is a platform commonly used for programming projects, both independent and collaborative. GitHub functions as a platform to upload and host project files for you and your team while being able to remotely and simultaneously update, download, and work on code. 
 
 Similar to JetBrains, signing up for GitHub with your U of T email provides access to the GitHub Student Developer Pack.
 
@@ -242,10 +242,10 @@ The courses offered are MAT135/136, MAT137, and MAT157. Either of these will sat
 
 Prospective Math Specialists and Majors should strongly consider taking some additional math courses in the first year.  Of note, 
 
-Majors must complete MAT223 (Linear Algebra I) or MAT240 (Algebra I) alongside MAT224 (Linear Algebra II) or MAT247 (Algebra II) to complete their program.
+- Majors must complete MAT223 (Linear Algebra I) or MAT240 (Algebra I) alongside MAT224 (Linear Algebra II) or MAT247 (Algebra II) to complete their program.
 Specialists must complete MAT240 (Algebra I) alongside MAT247 (Algebra II) to complete their program.
 
-For CS Majors, MAT223/MAT240 still can count towards your CS program requirements (alongside others), but CS Specialists must take MAT223/MAT240 as part of the CS program requirements. In our experience, many students take these courses in their first year, as some upper-year CS courses require either as a prerequisite. For more info check out the [math section in the calendar](https://fas.calendar.utoronto.ca/section/Mathematics) for full details.
+- For CS Majors, MAT223/MAT240 still can count towards your CS program requirements (alongside others), but CS Specialists must take MAT223/MAT240 as part of the CS program requirements. In our experience, many students take these courses in their first year, as some upper-year CS courses require either as a prerequisite. For more info check out the [math section in the calendar](https://fas.calendar.utoronto.ca/section/Mathematics) for full details.
 
 Do your due diligence and remember that if you take a more advanced course, you can normally try it out and drop to the comparatively less dense math courses in the first 2 weeks (or more) with no penalty (the same doesn’t apply going up in difficulty). If you have any concerns, contact the math department. They have also provided some good prep work for first-year calculus [here](https://www.math.toronto.edu/preparing-for-calculus/).
 
