@@ -169,18 +169,17 @@ For all you crazy folks out here, also note that you can enroll in as many as yo
 For most focuses, all CS Specialists and Majors can enroll automatically at any point in their degree. However, to enroll in the [Focus in Technology Leadership (FTL)](https://www.technologyleadershipinitiative.com/), students must complete a special application form and successfully pass any interviews. FTLI aims to prepare students to take on leadership roles within the tech industry. Currently, FTLI accepts about 30 students for each cohort, though they may possibly expand in future years.
 
 Once you're in, FTLI has two big draws: 
-1. Industry-integrated learning
- Enrolled students must complete two specialized courses exclusively for FTLI students: the industry-focused variant of CSC207H1: Software Design and CSC308H1: Technology Leadership. FTLI's version of CSC207 involves an industry-integrated project that past cohorts have found extremely valuable in developing technical and soft skills.
+1. Industry-integrated learning<br>
+Enrolled students must complete two specialized courses exclusively for FTLI students: the industry-focused variant of CSC207H1: Software Design and CSC308H1: Technology Leadership. FTLI's version of CSC207 involves an industry-integrated project that past cohorts have found extremely valuable in developing technical and soft skills.
 
-2. Industry experience and workshops
-     FTLI frequently hosts networking events and workshops to help students build skills essential to leadership in tech. The program also provides support and mentorship in navigating the internship search. 
+2. Industry experience and workshops<br>
+FTLI frequently hosts networking events and workshops to help students build skills essential to leadership in tech. The program also provides support and mentorship in navigating the internship search. 
 
 ### Breadth Courses
 
 To get your degree at UofT on top of completing 20 Credits and fulfilling a degree combination of at least a Specialist/2 Majors/1 Major + 2 Minors, you must complete Breadth Requirements:
 
-The Breadth Requirement can be completed in one of two ways: (a) at least 1.0 credit in each of 4 of the 5 categories below, or (b) at least 1.0 credit in each of any 3 of the 5 categories, and at least 0.5 credit in each of the other 2 categories.
-
+The Breadth Requirement can be completed in one of two ways: (a) at least 1.0 credit in each of 4 of the 5 categories below, or (b) at least 1.0 credit in each of any 3 of the 5 categories, and at least 0.5 credit in each of the other 2 categories:
 1. Creative and Cultural Representations
 2. Thought, Belief, and Behaviour
 3. Society and Its Institutions
@@ -200,7 +199,7 @@ Here are some courses that have been previously offered by ArtSci;
 - SMC198H1 - How to Study Video Games
 - NEW103H1 - Digital Technology and Society
 - CSC196H1 - Great Ideas In Computing
-- CSC197H1 - What, Who, How: Privacy in the Age of Big Data Collection
+- CSC197H1 - Big Data and Privacy
 
 New courses come up every year, so feel free to do yourself a favor and check out t
 
