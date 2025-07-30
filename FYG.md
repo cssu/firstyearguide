@@ -1,18 +1,20 @@
 ---
 title: "First Year's Guide to CS"
-date: 2025-07-29
+date: 2025-07-30
 hideLastModified: true
 summary: "A Guide for First-Year CS Students!"
 summaryImage: "first_year.jpg"
 ---
 
-2025 Edition Version 1.5 - Last Edit July 30, 2025
-<p align="left">
-  <img src="chud.png" alt="Reaper" />
+2025 Edition Version 1.6 - Last Edit July 30, 2025
+
+<p>
+  <img src="chud.png" alt="Reaper" width="100" /> <br>
+  Edison Y. <br>
+  Class of 2027, Computer Science Specialist<br>
+  VP of Internal Relations<br>
 </p>
-By: Edison Y. - Class of 2027\
-    Computer Science Specialist\
-    VP of Internal Relations
+
 
 2020 Author's Note:
 
@@ -33,8 +35,8 @@ By: Edison Y. - Class of 2027\
 
 [Spotify](https://open.spotify.com/episode/0HF43I3QWW4psRRjYyCjq7)
 
-Original Credits for 2020 and 2018 Version (from which a lot of the content is sourced)
-By: Anujan M, Clara S, and the CSSU Team
+Original Credits for 2020 and 2018 Version (from which a lot of the content is sourced):
+> By: Anujan M, Clara S, and the CSSU Team
 
 ---
 <p align="center">
@@ -54,7 +56,7 @@ University can be exciting but daunting, especially in your first year. We hope 
 2. [Common Terms that you should know](#common-terms-that-you-should-know) (or Uni is just full of acronyms that change all the time)
 3. [Course Enrollment](#course-enrollment) (or how to make a schedule that doesn't overburden you)
 4. [Course Tips](#course-tips) (or how to succeed in those courses and GET HELP)
-5. [Program Admission (Formerly Subject POSt)](#admission-to-a-program) (AKA most speculative/invisible monster to terrorize students in all of Canada or even the world that got a rework into a much nicer thing but is still worth paying attention to)
+5. [Program Admission (Formerly Subject POSt)](#program-admission) (AKA most speculative/invisible monster to terrorize students in all of Canada or even the world that got a rework into a much nicer thing but is still worth paying attention to)
 6. [Mental Health](#mental-health) (Really, *really* important to read and understand, it's real and we need to talk about it)
 7. [How to get Involved?](#how-to-get-involved) (or how to get a balance in your life, have fun, and make friends)
 8. [Jobs, Internships, and ASIP](#jobs-internships-and-asip) (or how and when to get some real-world experience)
@@ -71,13 +73,13 @@ So since this guide is made in coordination with the CSSU, we would like to intr
     <img src="https://media.giphy.com/media/7FDtvM9nIN6Cs/giphy.gif" alt="Ice-cream sandwich GIF" />
 </p>
 
-The CSSU also hosts a ton of different events, including game nights, pancake breakfasts, town halls, and academic events, where students get to socialize with each other over pancakes, video games, and stuff they're interested in. We also sport plenty of amenities in the office; I'm talking televisions, game consoles (Xbox Original/360/X, PS2/3, Gamecube, Switch), a microwave/sink/kettles, fridges, and more! Although we represent the CS students at UTSG, the community and Bahen lounge are open to anyone and everyone from all backgrounds and fields of study; feel free to drop by, say hello, and introduce yourself! You can sign up for our email newsletter that will contain information on upcoming events [here](https://cssu.us10.list-manage.com/subscribe/post?u=987f258df56af54075e2c9696&id=6217e7727d) or join our Discord [here](https://discord.gg/hPffE83Z).
+The CSSU also hosts a ton of different events, including game nights, pancake breakfasts, town halls, and academic events, where students get to socialize with each other over pancakes, video games, and stuff they're interested in. We also sport plenty of amenities in the office; I'm talking televisions, game consoles (Xbox Original/360/X, PS2/3, Gamecube, Switch), a microwave/sink/kettles, fridges, and more! Although we represent the CS students at UTSG, the community and Bahen lounge are open to anyone and everyone from all backgrounds and fields of study; feel free to drop by, say hello, and introduce yourself! You can sign up for our email newsletter that will contain information on upcoming events [here](https://cssu.us10.list-manage.com/subscribe/post?u=987f258df56af54075e2c9696&id=6217e7727d) or join our Discord [here](https://discord.gg/R9hneMaafD).
 
 <p align="center">
     <img src="https://media.giphy.com/media/m8XguqDisAIgag7oqT/giphy.gif" alt="Smash Bros GIF" />
 </p>
 
-Author's note: If you play Smash Ultimate, you should stop by the lounge - we have been closely collaborating with UT Smash for their Friday and monthly tournaments. I picked up the game around the second semester of my second year and would love to find another excuse to play!
+> Author's note: If you play Smash Ultimate, you should stop by the lounge - we have been closely collaborating with UT Smash for their Friday and monthly tournaments. I picked up the game around the second semester of my second year and would love to find another excuse to play!
 
  <p align="center">
     <img src="https://gifdb.com/images/high/sephiroth-jump-scare-scene-g7thgnoss2hlqcus.webp" alt="Alien_sword_man_hunk_thingie" />
@@ -94,7 +96,7 @@ Feel free to visit our website [here](https://www.cssu.ca/) to learn more about 
 
 [ACORN](https://acorn.utoronto.ca) is your one-stop shop for all the official things you need to do. From enrolling in courses and accessing your final grades to finding your tuition bills, ACORN is your go-to site.
 
-**_ProTip_**: You can plan your courses on ACORN and save them to your "cart", from which you can quickly enroll when your course enrollment period begins.
+>**_Pro Tip_**: You can plan your courses on ACORN and save them to your "cart", from which you can quickly enroll when your course enrollment period begins.
 
 **QUERCUS** (A.K.A. Portal, or the most unpronounceable name on campus)
 
@@ -104,23 +106,25 @@ Feel free to visit our website [here](https://www.cssu.ca/) to learn more about 
 
 [MarkUs](https://markus.teach.cs.toronto.edu) is where you'll be submitting your work and getting feedback and marks for most (if not all) CS courses. Make sure you can log in to the site as soon as it’s available to avoid hassles that will undoubtedly arise if you can't log in on the day your assignments are due.
 
-**_ProTip_**: Always submit assignments early, since the system tends to get overloaded and is known to get extremely slow or even crash during the last few minutes before the deadline. It’s your responsibility to submit early, but also keep in mind that multiple submissions are allowed for most classes. This means only your final submission will be graded, even if you submit various drafts before the deadline. This allows you to edit and submit your work as many times as you see fit until the deadline.
+>**_Pro Tip_**: Always submit assignments early, since the system tends to get overloaded and is known to get extremely slow or even crash during the last few minutes before the deadline. It’s your responsibility to submit early, but also keep in mind that multiple submissions are allowed for most classes. This means only your final submission will be graded, even if you submit various drafts before the deadline. This allows you to edit and submit your work as many times as you see fit until the deadline.
 
 **Piazza**
 
-Many courses use Piazza, a course-based forum board where students can post questions and get answers from classmates and the teaching team. However, some courses don’t use Piazza and instead use Discourse or the Quercus discussion boards. These are good resources for finding answers to frequently sought-out clarifications. It should be noted that email notifications are on by default for every post, which can be annoying; go into the settings and pick the email settings that fit you.
+Many courses use [Piazza](https://piazza.com/), a course-based forum board where students can post questions and get answers from classmates and the teaching team. However, some courses don’t use Piazza and instead use Discourse or the Quercus discussion boards. These are good resources for finding answers to frequently sought-out clarifications. It should be noted that email notifications are on by default for every post, which can be annoying; go into the settings and pick the email settings that fit you.
 
 **Ed Discussion**
 
-An alternative course forum to Piazza, but it serves the same purpose. In the past, Ed has been used in CSC110, CSC111, CSC165, CSC236, and MAT237, among other courses. <br>
-**_ProTip_**: Remember to search your question before posting it on a course forum, as it is quite likely someone's already asked your exact question. Also, profs really don't want to answer the same question 5 million times...
+[An alternative course forum](https://edstem.org/) to Piazza, but it serves the same purpose. In the past, Ed has been used in CSC110, CSC111, CSC165, CSC236, and MAT237, among other courses. <br>
+>**_Pro Tip_**: Remember to search your question before posting it on a course forum, as it is quite likely someone's already asked your exact question. Also, profs really don't want to answer the same question 5 million times...
 
 **Teaching Labs**
 
-The teaching labs refer to the **actual labs** in Bahen as well as the entire online system through which you interact with the department (MarkUs, SSH (_Remote Lab Connections_), PCRS). At the beginning of the year, you'll get an email asking you to set up your Teaching Labs account. It is critical that you:
+[The teaching labs](https://www.teach.cs.toronto.edu/) refer to the **actual labs** in Bahen as well as the entire online system through which you interact with the department (MarkUs, SSH (_Remote Lab Connections_), PCRS). At the beginning of the year, you'll get an email asking you to set up your Teaching Labs account. It is critical that you:
 
 1. Don't lose the email.
 2. Don't forget the password you set it with.
+3. _Don't lose your mind._
+   
  This is the most used login you'll need at U of T (after your UTORid login for ACORN). 
 
 Keep in mind that CS students have 24/7 access to the labs (and Bahen) with their T-Cards. For more information about the labs, visit [their site](https://www.teach.cs.toronto.edu/), which contains [room numbers for the labs](https://www.teach.cs.toronto.edu/faq.html#GS1) and [status/uptime pages for UofT, teach servers, and Markus](https://status.teach.cs.toronto.edu/).
@@ -170,14 +174,14 @@ There are many different fields in CS and a lot of courses that range from theor
 CS Majors and Specialists can optionally enroll in one or more Focuses within computer science, as listed on the [academic calendar](https://artsci.calendar.utoronto.ca/section/Computer-Science). Focuses help students explore different areas of computer science in a guided way and allow students to formally show expertise in a particular field of CS. You may choose to enroll in a focus once you’re admitted into a Major/Specialist program **during the summer request period;** check this date on the ArtSci website for [Academic Dates & Deadlines](https://www.artsci.utoronto.ca/current/dates-deadlines/academic-dates).
 For all you crazy folks out here, also note that you can enroll in as many as you would like, but also that most people regain enough sanity to only finish one or two. However, if you’d like to be a Swiss Army knife, the options are on the table for all you brave souls…
 
-For most focuses, all CS Specialists and Majors can enroll automatically at any point in their degree. However, to enroll in the [Focus in Technology Leadership (FTL)](https://www.technologyleadershipinitiative.com/), students must complete a special application form and successfully pass any interviews. FTLI aims to prepare students to take on leadership roles within the tech industry. Currently, FTLI accepts about 30 students for each cohort, though they may possibly expand in future years.
+For most focuses, all CS Specialists and Majors can enroll automatically at any point in their degree. However, to enroll in the [Focus in Technology Leadership (FTL)](https://www.technologyleadershipinitiative.com/), students must complete a special application form and successfully pass any interviews. FTL aims to prepare students to take on leadership roles within the tech industry. Currently, FTL accepts about 30 students for each cohort, though they may possibly expand in future years.
 
-Once you're in, FTLI has two big draws: 
+Once you're in, FTL has two big draws: 
 1. Industry-integrated learning<br>
-Enrolled students must complete two specialized courses exclusively for FTLI students: the industry-focused variant of CSC207H1: Software Design and CSC308H1: Technology Leadership. FTLI's version of CSC207 involves an industry-integrated project that past cohorts have found extremely valuable in developing technical and soft skills.
+Enrolled students must complete two specialized courses exclusively for FTL students: the industry-focused variant of CSC207H1: Software Design and CSC308H1: Technology Leadership. FTL's version of CSC207 involves an industry-integrated project that past cohorts have found extremely valuable in developing technical and soft skills.
 
 2. Industry experience and workshops<br>
-FTLI frequently hosts networking events and workshops to help students build skills essential to leadership in tech. The program also provides support and mentorship in navigating the internship search. 
+FTL frequently hosts networking events and workshops to help students build skills essential to leadership in tech. The program also provides support and mentorship in navigating the internship search. 
 
 ### Breadth Courses
 
@@ -261,10 +265,6 @@ Also, look at the department’s [page](https://web.cs.toronto.edu/undergraduate
 ---
 ### Which Math Course Should I Take?
 
-<p align="center">
-    <img src="https://media.giphy.com/media/dJ4vNQ7r72pb4nDhN5/giphy.gif" alt="Math GIF" />
-</p>
-
 Before we go any further, there are a few good official resources for this section; check [this guide to First-Year Math courses](https://www.mathematics.utoronto.ca/undergraduate/current-students/guide-first-year-mathematics) and also [the MAT137Y1 vs MAT157Y1 portion of the Incoming First-Year CS webpage](https://web.cs.toronto.edu/undergraduate/incoming).
 
 So yes, you’re thinking – this is a CS guide! Why is it talking about math courses? Mathematics and Computer Science go hand-in-hand (in particular, CSC165 and all the theory courses have a very mathematical approach). We are very much like our math counterparts on the theoretical side. This is why you'll pick a calculus course in your first year, and your options are highly varied.
@@ -276,7 +276,7 @@ Prospective Math Specialists and Majors should strongly consider taking some add
 - Majors must complete MAT223 (Linear Algebra I) or MAT240 (Algebra I) alongside MAT224 (Linear Algebra II) or MAT247 (Algebra II) to complete their program.
 Specialists must complete MAT240 (Algebra I) alongside MAT247 (Algebra II) to complete their program.
 
-- For CS Majors, MAT223/MAT240 still can count towards your CS program requirements (alongside others), but CS Specialists must take MAT223/MAT240 as part of the CS program requirements. In our experience, many students take these courses in their first year, as some upper-year CS courses require them as a prerequisite. For more info, check out the [math section in the calendar](https://fas.calendar.utoronto.ca/section/Mathematics) for full details.
+- For CS Majors, MAT223/MAT240 still can count towards your CS program requirements (alongside others), but CS Specialists must take MAT223/MAT240 as part of the CS program requirements. In our experience, many students take these courses in their first year, as some upper-year CS courses require them as a prerequisite.
 
 Do your due diligence and remember that if you take a more advanced course, you can normally try it out and drop to the comparatively less dense math courses in the first 2 weeks (or more) – typically with no penalty (the same doesn’t apply going up in difficulty). If you have any concerns, contact the math department. They have also provided some good prep work for first-year calculus [here](https://www.math.toronto.edu/preparing-for-calculus/).
 
@@ -297,7 +297,7 @@ Any relatively modern system should be fine, regardless of the operating system,
 
 The university has provided a list of minimum and recommended specs for doing remote learning [here](https://www.viceprovoststudents.utoronto.ca/covid-19/tech-requirements-online-learning/), which also includes having a webcam available. If you are attending classes from outside of Canada, the site also provides important information about VPN access if necessary.
 
-**_ProTip_**: You get free software/benefits from UofT for being a student, like Amazon Prime 6 Month Trial and reduced Prime, free movie streaming (in SD) [here click on criterion or Audio Cine Films which contain a lot of recent films](https://mediacommons.library.utoronto.ca/streaming-video). **Free** MS Office [instructions here](https://onesearch.library.utoronto.ca/ic-faq-categories/office-365-proplus), Windows 10 Education aka Windows 10 Pro for students [register here](https://uoft.onthehub.com/WebStore/Security/Signin.aspx?rurl=%2fWebStore%2fOfferingDetails.aspx%3fo%3d499fe89c-cb3a-e511-940f-b8ca3a5db7a1).
+>**_Pro Tip_**: You get free software/benefits from UofT for being a student, like Amazon Prime 6 Month Trial and reduced Prime, free movie streaming (in SD) [here click on Criterion or Audio Cine Films which contain a lot of recent films](https://mediacommons.library.utoronto.ca/streaming-video). **Free** MS Office [instructions here](https://onesearch.library.utoronto.ca/ic-faq-categories/office-365-proplus), Windows 10 Education aka Windows 10 Pro for students [register here](https://uoft.onthehub.com/WebStore/Security/Signin.aspx?rurl=%2fWebStore%2fOfferingDetails.aspx%3fo%3d499fe89c-cb3a-e511-940f-b8ca3a5db7a1).
 
 ### Tips
 
@@ -334,9 +334,14 @@ So you’ve gotten into the courses you like and you’ve planned out your timet
 
 6. **Community**
 
- Get involved with the CS community! U of T has tons of different CS-oriented clubs, study groups, and more!
-We have a page of >?<br>
-- Also see Finding your community under Mental Health
+Get involved with the community; U of T has tons of different CS-oriented clubs, study groups, and more!
+We have a page full of student clubs, unions, and groups that we've partnered with on [our website](https://www.cssu.ca/community) - a little bit of everything. <br>
+
+Interested in [machine intelligence](https://utmist.gitlab.io/) or [computer graphics](https://www.instagram.com/utcomputergraphics/)? Maybe [capture the flag](https://uoftctf.org/)? Perhaps [cybersecurity](https://cssa.sa.utoronto.ca/)? You name, we have it - you can even check for a more comprehensive lists of student clubs at the [Student Organization Portal](https://sop.utoronto.ca/groups/https://sop.utoronto.ca/groups/)!
+
+The CSSU also hosts tons of social events every year, the most popular among them being the **Teatime with Professors** events and the **Pancake Recruitment Breakfasts** - keep an eye out for these on our [Instagram](https://www.instagram.com/uoftcssu/).
+
+- Also see: _Finding your community_ under the [Mental Health section](#mental-health).
 
 ## (TODO: Community Section)
    
@@ -407,7 +412,7 @@ For more info, visit the [CS Department Admissions Page](http://web.cs.toronto.e
 ### What if I want to pursue Data Science?
 
 So throughout this whole guide, we’ve been foreshadowing the Data Science Specialist program *à la Sephiroth* - but what is it, exactly? 
-Data Science is a recently added Specialist program co-offered by the Department of Statistics and Computer Science. As quoted from the [calendar](https://fas.calendar.utoronto.ca/section/Computer-Science#programs_view-block_2-0), *"The Data Science Specialist program prepares students for work in the Data Science industry or government and for graduate studies in Data Science, Computer Science, or Statistics. Students in the program will benefit from a range of advanced courses in Computer Science and Statistics offered by the University of Toronto, as well as from a sequence of three integrative courses designed especially for the program."*
+Data Science is a recently added Specialist program co-offered by the Department of Statistics and Computer Science. As quoted from the [calendar](https://artsci.calendar.utoronto.ca/program/asspe1687), *"The Data Science Specialist program prepares students for work in the Data Science industry or government and for graduate studies in Data Science, Computer Science, or Statistics. Students in the program will benefit from a range of advanced courses in Computer Science and Statistics offered by the University of Toronto, as well as from a sequence of three integrative courses designed especially for the program."*
 
 There are specific admission requirements that first years must complete on top of the existing CS requirements.
 
@@ -433,9 +438,10 @@ If you have any mental health concerns or problems, Amna is more than willing to
 The UofT Reddit has a set of [Health and Wellness Resources](https://www.reddit.com/r/UofT/comments/6yxq87/health_wellness_resources/) as well.
 
 Something that I believe in when things get tough is hope. Sometimes things don't work out exactly as we expect. Things go wrong, bad stuff happens, but you should never give up on hope, hope that things will be better someday. Keep being true to yourself, work towards your goals, and never give up.
+
 A note directly from Amna Adnan, our 2025 Student Life & Program Assistant; 
 
-*”Something us advisors talk a lot about is that fact that people of really high caliber get into U of T and then they're suddenly middle of the pack when they used to be on top (because not all of these straight A students can now be on top), or they might have their first experience with rejection or failure or not meeting expectations here because they’ve been so high achieving until now - you're inevitably going to go through bumps, but it’s important to have hope and to reach out for help ASAP so that you can proactively address concerns rather than react to things going badly.”*
+> “Something us advisors talk a lot about is that fact that people of really high caliber get into U of T and then they're suddenly middle of the pack when they used to be on top (because not all of these straight A students can now be on top), or they might have their first experience with rejection or failure or not meeting expectations here because they’ve been so high achieving until now - you're inevitably going to go through bumps, but it’s important to have hope and to reach out for help ASAP so that you can proactively address concerns rather than react to things going badly.”
 
 <p align="center">
     <img src="https://media1.tenor.com/images/4b843218cff5cb57ac61fc1881f47ba1/tenor.gif?itemid=12862483" alt="Hope GIF" />
@@ -468,7 +474,7 @@ To hear about experiences from two clubs, WICS and UTCG, take a listen to these 
 - [WICS](https://open.spotify.com/episode/0miTXJpfrMTo1XsnRjh4yQ?si=xC03o9NUSb-U-eBb4gnapg)
 - [UTCG](https://open.spotify.com/episode/1r9rMTmdCu3GRcFFSDAQfr)
 
-You might also want to consider joining an FLC (First Year Learning Community). Basically, you get a group of other students who are taking the same Computer Science courses as you, and you get an upper-year mentor along with department members who will help guide you through your courses, uni, and life in general. It’ll help you make some friends, be in the know, and get some real mentorship. Check out more info and apply [here](https://learningcommunities.utoronto.ca/index.php/ex-1/find-your-flc/computer-science/).
+You might also want to consider joining an FLC (First Year Learning Community). Basically, you get a group of other students who are taking the same Computer Science courses as you, and you get an upper-year mentor along with department members who will help guide you through your courses, uni, and life in general. It’ll help you make some friends, be in the know, and get some real mentorship. Check out more info and apply [here](https://www.artsci.utoronto.ca/future/academic-opportunities/first-year-learning-communities).
 Note that you can only apply for these in the summer – apply early!
 
 Also, do take a look at applying to be a *First-year Representative* here at the CSSU! You will be responsible for presenting your interests and issues to the CSSU, and for spreading information and updates to your classmates. Alternatively, you can also be a General Council member – check out the main page for more details on how to apply!
