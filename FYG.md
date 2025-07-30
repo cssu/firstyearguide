@@ -82,8 +82,8 @@ Author's note: If you play Smash Ultimate, you should stop by the lounge - we ha
 To make the transition to university a little smoother, we also run the annual First-Year CS Orientation, which happens at the beginning of the year for students to get to know each other and to be introduced to some great info. Stay tuned for more details later this summer on how it's being reworked!
 
 Feel free to visit our website [here](https://www.cssu.ca/) to learn more about the CSSU, and first-year opportunities, or to get settled into the community. If you are *so inclined*, you could even join our web team and make it a little prettier...
----
 
+---
 ## Common Terms That You Should Know
 
 **ACORN**
@@ -107,8 +107,8 @@ Feel free to visit our website [here](https://www.cssu.ca/) to learn more about 
 Many courses use Piazza, a course-based forum board where students can post questions and get answers from classmates and the teaching team. However, some courses don’t use Piazza and instead use Discourse or the Quercus discussion boards. These are good resources for finding answers to frequently sought-out clarifications. It should be noted that email notifications are on by default for every post, which can be annoying; go into the settings and pick the email settings that fit you.
 
 **Ed Discussion**
-An alternative course forum to Piazza, but it serves the same purpose. In the past, Ed has been used in CSC110, CSC111, CSC165, CSC236, and MAT237, among other courses.
 
+An alternative course forum to Piazza, but it serves the same purpose. In the past, Ed has been used in CSC110, CSC111, CSC165, CSC236, and MAT237, among other courses. <br>
 **_ProTip_**: Remember to search your question before posting it on a course forum, as it is quite likely someone's already asked your exact question. Also, profs really don't want to answer the same question 5 million times...
 
 **Teaching Labs**
@@ -157,11 +157,11 @@ Additionally, it can be a good idea to consult RateMyProfs for more details rega
 
 For more important videos with tips and information about university and course enrollment, check out the ArtSci YouTube channel [here](https://www.youtube.com/channel/UCXRrb_NqDU5IN2ensLpWbcg/videos). For an interview with Lana about her achievements and advice, check out [this episode of Room 2250](https://open.spotify.com/episode/3HZ6rqlLT1n07o1Rn2xLzQ).
 
-#### Course Planning Tools/Things to know
+### Course Planning Tools/Things to know
 
 There are many different fields in CS and a lot of courses that range from theory to networking to graphics and everything in between. [Courseography](https://courseography.cdf.toronto.edu/graph) is an open-source project started by Prof. David Liu that charts out all the CS courses and program areas with their prerequisites. You could look at what upper-year courses interest you and take their necessary prerequisites. Note that the course offerings have not been updated to reflect the new courses for the 2025/2026 school year (as of publishing), and as always, the [calendar](https://fas.calendar.utoronto.ca/section/Computer-Science) is the place for the most up-to-date and official information.
 
-##### What is a focus?
+### What is a focus?
 
 CS Majors and Specialists can optionally enroll in one or more Focuses within computer science, as listed on the [academic calendar](https://artsci.calendar.utoronto.ca/section/Computer-Science). Focuses help students explore different areas of computer science in a guided way and allow students to formally show expertise in a particular field of CS. You may choose to enroll in a focus once you’re admitted into a Major/Specialist program **during the summer request period;** check this date on the ArtSci website for [Academic Dates & Deadlines](https://www.artsci.utoronto.ca/current/dates-deadlines/academic-dates).
 For all you crazy folks out here, also note that you can enroll in as many as you would like, but also that most people regain enough sanity to only finish one or two. However, if you’d like to be a Swiss Army knife, the options are on the table for all you brave souls…
@@ -175,7 +175,7 @@ Once you're in, FTLI has two big draws:
 2. Industry experience and workshops
      FTLI frequently hosts networking events and workshops to help students build skills essential to leadership in tech. The program also provides support and mentorship in navigating the internship search. 
 
-##### Breadth Courses
+### Breadth Courses
 
 To get your degree at UofT on top of completing 20 Credits and fulfilling a degree combination of at least a Specialist/2 Majors/1 Major + 2 Minors, you must complete Breadth Requirements:
 
@@ -222,8 +222,9 @@ Depending on your course, certain libraries/packages may need to be installed; f
 
 Similar to JetBrains, signing up for GitHub with your U of T email provides access to the GitHub Student Developer Pack.
 
-## Students who have been admitted to the CS Stream
-### **In-Stream** Schedule Notes
+---
+### Students who have been admitted to the CS Stream
+#### **In-Stream** Schedule Notes
 
 Visit [here]( https://web.cs.toronto.edu/undergraduate/incoming) for more information about in-stream courses.
 
@@ -236,7 +237,8 @@ Naturally, you should plan your course load accordingly; if you're following a t
 
 <!-- <Figure src="timetable.png" alt="The sample timetable is divided into two columns for Fall Term and Winter Term. Under Fall Term, it lists MAT137Y / MAT157Y, CSC110Y, Elective 1a, and Elective 2a. Under Winter Term, it lists CSC111H, STA130H (if interested in Data Science), or elective, Elective 1b, and Elective 2b." /> -->
 
-#### Students that were not admitted to the CS Stream (Mathematical and Physical Sciences, Life Science, Humanities, etc.)
+---
+### Students that were not admitted to the CS Stream (Mathematical and Physical Sciences, Life Science, Humanities, etc.)
 
 ### CSC108 vs CSC148
 
@@ -253,6 +255,7 @@ Note that even if you take CSC148 and then decide that you're not ready for it a
 
 Also, look at the department’s [page](https://web.cs.toronto.edu/undergraduate/first-year-courses) for more info on how to choose your first-year CS courses. This doesn't mention the new in-stream version; refer to the above section for more on the in-stream site.
 
+---
 ### Which Math Course Should I Take?
 
 <div style="text-align: center;">
