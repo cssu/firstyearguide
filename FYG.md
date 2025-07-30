@@ -8,7 +8,7 @@ summaryImage: "first_year.jpg"
 
 2025 Edition Version 1.5 - Last Edit July 30, 2025
 <p align="left">
-  <img src="https://media.giphy.com/media/kiIzRA15EpUsOuiK9J/giphy.gif" alt="Hello Gif" />
+  <img src="chud.png" alt="Reaper" />
 </p>
 By: Edison Y. - Class of 2027\
     Computer Science Specialist\
