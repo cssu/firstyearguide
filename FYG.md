@@ -116,7 +116,6 @@ Many courses use [Piazza](https://piazza.com/), a course-based forum board where
 
 [An alternative course forum](https://edstem.org/) to Piazza, but it serves the same purpose. In the past, Ed has been used in CSC110, CSC111, CSC165, CSC236, and MAT237, among other courses. <br>
 >**_Pro Tip_**: Remember to search your question before posting it on a course forum, as it is quite likely someone's already asked your exact question. Also, profs really don't want to answer the same question 5 million times...
-
 **Teaching Labs**
 
 [The teaching labs](https://www.teach.cs.toronto.edu/) refer to the **actual labs** in Bahen as well as the entire online system through which you interact with the department (MarkUs, SSH (_Remote Lab Connections_), PCRS). At the beginning of the year, you'll get an email asking you to set up your Teaching Labs account. It is critical that you:
@@ -264,13 +263,10 @@ Also, look at the department’s [page](https://web.cs.toronto.edu/undergraduate
 
 ---
 ### Which Math Course Should I Take?
-
-
 <p align="center" >
     <img src="Screw_you_Livshits_Adi.png" alt="Asiiiiiiff..." width = "400" /> <br> 
   MAT237 my beloved... 😍
 </p>
-
 Before we go any further, there are a few good official resources for this section; check [this guide to First-Year Math courses](https://www.mathematics.utoronto.ca/undergraduate/current-students/guide-first-year-mathematics) and also [the MAT137Y1 vs MAT157Y1 portion of the Incoming First-Year CS webpage](https://web.cs.toronto.edu/undergraduate/incoming).
 
 So yes, you’re thinking – this is a CS guide! Why is it talking about math courses? Mathematics and Computer Science go hand-in-hand (in particular, CSC165 and all the theory courses have a very mathematical approach). We are very much like our math counterparts on the theoretical side. This is why you'll pick a calculus course in your first year, and your options are highly varied.
@@ -432,7 +428,7 @@ There are specific admission requirements that first years must complete on top 
  Please note that while CSC165 is not required at the time of application to the Data Science Specialist program, it remains a program requirement and is a prerequisite for CSC236. If you are not planning on taking CSC240, it is highly recommended that you take CSC165 in the winter of your first year. <br>
  This course is the additional course requirement that differentiates CS and Data Science. You must take the course in your first year to qualify for the stream benefits.
 
-To ensure that students admitted to the program will be successful, applicants will not be considered for admission with a grade lower than 70% in CSC110Y1, CSC148, CSC165, MAT137Y1, and STA130H1, or lower than 77% in CSC111H1. ( MAT157Y1 grades will be adjusted to account for the course's greater difficulty.) Obtaining these minimum grades does not guarantee admission to the program.
+To ensure that students admitted to the program will be successful, applicants will not be considered for admission with a grade lower than 70% in CSC110Y1, CSC148, CSC165, MAT137Y1, and STA130H1, or lower than 77% in CSC111H1 (MAT157Y1 grades will be adjusted to account for the course's greater difficulty). Obtaining these minimum grades does not guarantee admission to the program.
 
 If you were admitted as an in-stream computer science student, you have an additional benefit. **At least 20 spots** will be reserved for in-stream CS first years who complete the requirements. In other words, out of the in-stream first years that apply for the Data Science Specialist, the top 20 (or more) will be admitted to the Specialist. The rest may get in if their grades are competitive (like non-stream students). The rest will be combined with the out-of-stream applicants, and the spots will be given in order from highest to least average, like the CS out-of-stream selection process. Out-of-stream students will also need to complete the supplemental application, like for CS.
 
@@ -495,7 +491,6 @@ There are also lots of events which you can attend and participate in – follow
 
 For those of you who don’t know what a hackathon is, it’s basically a 1-3 day event where you and your team get together to build something, like an app which solves a real-world problem, or just something which you think is really cool in general - and you can win prizes for it, learn new technologies and get free food!!! There are a lot of hackathons that you can join. It’s free about 95% of the time, and you get the opportunity to meet lots of company reps and students from around the globe. UofTHacks is our premier hackathon (that’s hosted on campus), so be on the lookout for more details later this year. Also, check out [MLH](mlh.io) for a full list of hackathons both in Canada and around the world (A lot of the US ones are popular as well, if you’re comfortable with going to the United States for a weekend). Remember, you don’t have to be experienced to attend a hackathon - there are lots of workshops offered throughout these events, and you can always just go for the experience, which we can confirm is awesome.
 If you really, *really*, **really** wanna be on top of things, check out the [Student Group Opportunities Board](https://sop.utoronto.ca/opportunities/) or the weekly DCS newsletter on the [CS Undergrad Quercus Page](https://q.utoronto.ca/enroll/EMFCPB).
-
 <p align="center">
     <img src="https://media1.tenor.com/images/b52e33167d9104c39219c9d9ba90b2b2/tenor.gif?itemid=16684096" alt="If you're not making your moves, you're standing still GIF" />
 </p>
@@ -595,5 +590,4 @@ Alex Kozin: 2020 CSSU President
 
 **Original Credits Follow**:\
 Lead author Anujan M for coming up with the idea of building this guide, and for researching and writing it in an informative, approachable, and enjoyable way. Thanks to Nina from the CS Communications Office and Francois Pitt, Associate Professor, Teaching Stream, and Associate Chair, Undergraduate for reviewing this guide for accuracy and correctness, though as much as we like to say this guide is accurate (yes, disclaimer time) this is by no means an official guide and is written solely from the perspective of students. You should consult the UGO or your college registrar to confirm your understanding of these topics and verify your plans. Also, special thanks to the 2018-2019 CSSU President, David Ansermino, for accepting this idea and letting Anujan run with it. Also, a huge thanks to co-author Clara S for her fantastic editing of this guide, for sharing real first-hand tips and experiences, and for making this guide as comprehensive and grammatically correct as possible. Without her, this guide would not be as nicely written as it is.
-
 ---
