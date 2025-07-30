@@ -74,10 +74,10 @@ The CSSU also hosts a ton of different events, including game nights, pancake br
 </div>
 
 Author's note: If you play Smash Ultimate, you should stop by the lounge - we have been closely collaborating with UT Smash for their Friday and monthly tournaments. I picked up the game around the second semester of my second year and would love to find another excuse to play!
-
-<div style="text-align: center;">
+<!-- Comment: Kinda Spoopy not recommended.
+ <div style="text-align: center;">
     <img src="https://gifdb.com/images/high/sephiroth-jump-scare-scene-g7thgnoss2hlqcus.webp" alt="Alien_sword_man_hunk_thingie" />
-</div>
+</div> -->
 
 To make the transition to university a little smoother, we also run the annual First-Year CS Orientation, which happens at the beginning of the year for students to get to know each other and to be introduced to some great info. Stay tuned for more details later this summer on how it's being reworked!
 
@@ -332,9 +332,10 @@ So you’ve gotten into the courses you like and you’ve planned out your timet
 6. **Community**
 
  Get involved with the CS community! U of T has tons of different CS-oriented clubs, study groups, and more!
-We have a page of 
+We have a page of >?<br>
+- Also see Finding your community under Mental Health
 
-# (TBD)
+## (TODO: Community Section)
    
 ---
 ## Program Admission
@@ -371,14 +372,14 @@ The requirements, as quoted from the ArtSci Calendar, are:
 > Special Requirement
 > Students who do not have the Computer Science Admission Guarantee must complete a supplementary application to be considered for the CS Major/Minor or DS Specialist programs. Students who do not submit the supplemental application in time will not be considered.
 >
-> Variable Minimum Grade:\
+> *Variable Minimum Grade* :\
 > A minimum grade is needed for entry, and this minimum changes each year depending on available spaces and the number of applicants. The following courses must be completed:
 > CSC148H1 and (CSC165H1 or CSC240H1)
 >
 > To ensure that students admitted to the program will be successful, applicants with a grade below 70% will not be considered for admission. Obtaining this minimum grade does not guarantee admission to the program.
 > Note that CSC240H1 is *considerably* harder than CSC165H1 – as such, the Department has decided to play nice and adjust course grades at the end of the term. Unfortunately, we are not privy to the details, and the matter is a private, internal matter to DCS. 
 >
-> Notes:
+> *Additional Notes* :
 > Requests for admission will be considered in the first program request period only.
 > Due to the limited enrollment of this program, students are strongly advised to plan to enroll in backup programs.
 > Students admitted to the program after the second or third year will be required to pay retroactive deregulated program fees.
@@ -450,10 +451,10 @@ The University of Toronto is a diverse campus with students from around the worl
 > We all need to work together and listen to each other. Listen, empathize, and act.
 
 Unfortunately, racism and prejudice exist, even at an academic institution like UofT. I hope that people reading this will think about these statements and their actions. If you feel like you don't belong, remember that there are groups, communities, and good people on campus that can help you. Never lose faith in humanity.
-
-<div style="text-align: center;">
+<!-- Comment: Doesn't load
+ <div style="text-align: center;">
     <img src="https://media1.tenor.com/images/57d309947d1ce3cd90a26d136d0a3372/tenor.gif?itemid=17385373" alt="Inspiration GIF" />
-</div>
+</div> -->
 
 ---
 ## How to Get Involved
