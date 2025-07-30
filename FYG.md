@@ -63,21 +63,21 @@ University can be exciting but daunting, especially in your first year. We hope 
 
 So since this guide is made in coordination with the CSSU, we would like to introduce you to them. The Computer Science Student Union (or CSSU in short) represents all Computer Science students who are either taking a Computer Science course or are a part of the Computer Science program (CS Minor/Major/Specialist, Data Science Specialist) at the U of T St. George campus. We offer services and sell drinks and snacks (and 50¢ ice cream sandwiches!) out of the office in **BA2250** (Bahen Centre for Information Technology, 40 St. George Street, 2nd floor). 
 
-<div style="text-align: center;">
+<p align="center">
     <img src="https://media.giphy.com/media/7FDtvM9nIN6Cs/giphy.gif" alt="Ice-cream sandwich GIF" />
-</div>
+</p>
 
 The CSSU also hosts a ton of different events, including game nights, pancake breakfasts, town halls, and academic events, where students get to socialize with each other over pancakes, video games, and stuff they're interested in. We also sport plenty of amenities in the office; I'm talking televisions, game consoles (Xbox Original/360/X, PS2/3, Gamecube, Switch), a microwave/sink/kettles, fridges, and more! Although we represent the CS students at UTSG, the community and Bahen lounge are open to anyone and everyone from all backgrounds and fields of study; feel free to drop by, say hello, and introduce yourself! You can sign up for our email newsletter that will contain information on upcoming events [here](https://cssu.us10.list-manage.com/subscribe/post?u=987f258df56af54075e2c9696&id=6217e7727d) or join our Discord [here](https://discord.gg/hPffE83Z).
 
-<div style="text-align: center;">
+<p align="center">
     <img src="https://media.giphy.com/media/m8XguqDisAIgag7oqT/giphy.gif" alt="Smash Bros GIF" />
-</div>
+</p>
 
 Author's note: If you play Smash Ultimate, you should stop by the lounge - we have been closely collaborating with UT Smash for their Friday and monthly tournaments. I picked up the game around the second semester of my second year and would love to find another excuse to play!
 
- <div style="text-align: center;">
+ <p align="center">
     <img src="https://gifdb.com/images/high/sephiroth-jump-scare-scene-g7thgnoss2hlqcus.webp" alt="Alien_sword_man_hunk_thingie" />
-</div>
+</p>
 
 To make the transition to university a little smoother, we also run the annual First-Year CS Orientation, which happens at the beginning of the year for students to get to know each other and to be introduced to some great info. Stay tuned for more details later this summer on how it's being reworked!
 
@@ -257,9 +257,9 @@ Also, look at the department’s [page](https://web.cs.toronto.edu/undergraduate
 ---
 ### Which Math Course Should I Take?
 
-<div style="text-align: center;">
+<p align="center">
     <img src="https://media.giphy.com/media/dJ4vNQ7r72pb4nDhN5/giphy.gif" alt="Math GIF" />
-</div>
+</p>
 
 Before we go any further, there are a few good official resources for this section; check [this guide to First-Year Math courses](https://www.mathematics.utoronto.ca/undergraduate/current-students/guide-first-year-mathematics) and also [the MAT137Y1 vs MAT157Y1 portion of the Incoming First-Year CS webpage](https://web.cs.toronto.edu/undergraduate/incoming).
 
@@ -280,9 +280,9 @@ Do your due diligence and remember that if you take a more advanced course, you 
 
 There's no real definitive answer to this question. Many people prefer writing with a pen and paper, and it does benefit you in math and theory courses, where there are lots of complex formulas and mathematical notations to jot down (you probably wouldn’t want to type them out). Lots of people swear by the fact that writing by hand is better, though some people also like typing everything out instead. For programming courses, coding along with the professor is sometimes a great idea to see the lessons in action, though those courses normally have slides that you can read afterward to catch up as well. Whichever style fits you is the one you should adopt.
 
-<div style="text-align: center;">
+<p align="center">
     <img src="https://media.giphy.com/media/yBvndlpq8aCvS/giphy.gif" alt="Notetaking GIF" />
-</div>
+</p>
 
 However, you would do well to note that **handwritten code is a required skill that will come up on midterms, quizzes, and final exams;** make sure to practice this and get comfortable with doing it!
 
@@ -433,15 +433,15 @@ A note directly from Amna Adnan, our 2025 Student Life & Program Assistant;
 
 *”Something us advisors talk a lot about is that fact that people of really high caliber get into U of T and then they're suddenly middle of the pack when they used to be on top (because not all of these straight A students can now be on top), or they might have their first experience with rejection or failure or not meeting expectations here because they’ve been so high achieving until now - you're inevitably going to go through bumps, but it’s important to have hope and to reach out for help ASAP so that you can proactively address concerns rather than react to things going badly.”*
 
-<div style="text-align: center;">
+<p align="center">
     <img src="https://media1.tenor.com/images/4b843218cff5cb57ac61fc1881f47ba1/tenor.gif?itemid=12862483" alt="Hope GIF" />
-</div>
+</p>
 
 Another thing that we want to mention is that collaboration and teamwork can help a lot when it comes to dealing with the pressure of assignments and midterms. Yes, acceptance into the Computer Science program is competitive, but helping each other out and learning from each other goes a long way. Make friends!!! Everyone is scared, stressed out, and just wants to do well. Help each other out, and be kind to one another. Please don’t expect to go solo on all your classes – you are surrounded by some of the brightest students in your year, take advantage of that! University is a lot less stressful if you have like-minded friends to help you along the way.
 
-<div style="text-align: center;">
+<p align="center">
     <img src="https://media.giphy.com/media/10LKovKon8DENq/giphy.gif" alt="Friendship GIF" />
-</div>
+</p>
 
 ### Finding your community
 
@@ -451,9 +451,9 @@ The University of Toronto is a diverse campus with students from around the worl
 
 Unfortunately, racism and prejudice exist, even at an academic institution like UofT. I hope that people reading this will think about these statements and their actions. If you feel like you don't belong, remember that there are groups, communities, and good people on campus that can help you. Never lose faith in humanity.
 <!-- Comment: Doesn't load
- <div style="text-align: center;">
+ <p align="center">
     <img src="https://media1.tenor.com/images/57d309947d1ce3cd90a26d136d0a3372/tenor.gif?itemid=17385373" alt="Inspiration GIF" />
-</div> -->
+</p> -->
 
 ---
 ## How to Get Involved
@@ -476,9 +476,9 @@ There are also lots of events which you can attend and participate in – follow
 For those of you who don’t know what a hackathon is, it’s basically a 1-3 day event where you and your team get together to build something, like an app which solves a real-world problem, or just something which you think is really cool in general - and you can win prizes for it, learn new technologies and get free food!!! There are a lot of hackathons that you can join. It’s free about 95% of the time, and you get the opportunity to meet lots of company reps and students from around the globe. UofTHacks is our premier hackathon (that’s hosted on campus), so be on the lookout for more details later this year. Also, check out [MLH](mlh.io) for a full list of hackathons both in Canada and around the world (A lot of the US ones are popular as well, if you’re comfortable with going to the United States for a weekend). Remember, you don’t have to be experienced to attend a hackathon - there are lots of workshops offered throughout these events, and you can always just go for the experience, which we can confirm is awesome.
 If you really, *really*, **really** wanna be on top of things, check out the [Student Group Opportunities Board](https://sop.utoronto.ca/opportunities/) or the weekly DCS newsletter on the [CS Undergrad Quercus Page](https://q.utoronto.ca/enroll/EMFCPB).
 
-<div style="text-align: center;">
+<p align="center">
     <img src="https://media1.tenor.com/images/b52e33167d9104c39219c9d9ba90b2b2/tenor.gif?itemid=16684096" alt="If you're not making your moves, you're standing still GIF" />
-</div>
+</p>
 
 ---
 ## Jobs, Internships, and ASIP
@@ -515,9 +515,9 @@ Click on any of the links to go there:
 ---
 ## Finances
 
-<div style="text-align: center;">
+<p align="center">
     <img src="https://media.giphy.com/media/10YWA8gW28JbqM/giphy.gif" alt="Money GIF" />
-</div>
+</p>
 
 
 So CS is a ***deregulated fee program***. What could this possibly mean? To U of T, the interpretation is simple; you pay more money :(
