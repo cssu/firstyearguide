@@ -407,13 +407,13 @@ Data Science is a recently added Specialist program co-offered by the Department
 
 There are specific admission requirements that first years must complete on top of the existing CS requirements.
 
-> - CSC110Y1 and CSC111H1 or CSC148\
-> - MAT137Y1 or​ MAT157Y1\
-> - **STA130H1** 
- Please note that while CSC165 is not required at the time of application to the Data Science Specialist program, it remains a program requirement and is a prerequisite for CSC236. If you are not planning on taking CSC240, it is highly recommended that you take CSC165 in the winter of your first year. <br>
- This course is the additional course requirement that differentiates CS and Data Science. You must take the course in your first year to qualify for the stream benefits.
+> - (CSC110Y1 and CSC111H1) or CSC148
+> - MAT137Y1 or​ MAT157Y1
+> - STA130H1 or STA261<br>
+This course is the additional course requirement that differentiates CS and Data Science. You must take the course in your first year to qualify for the stream benefits.
+> - Please note that while CSC165 is not required at the time of application to the Data Science Specialist program, it remains a program requirement and is a prerequisite for CSC236. If you are not planning on taking CSC240, it is highly recommended that you take CSC165 in the winter of your first year. <br>
 
-To ensure that students admitted to the program will be successful, applicants will not be considered for admission with a grade lower than 70% in CSC110Y1, CSC148, CSC165, MAT137Y1, and STA130H1, or lower than 77% in CSC111H1. ( MAT157Y1 grades will be adjusted to account for the course's greater difficulty.) Obtaining these minimum grades does not guarantee admission to the program.
+To ensure that students admitted to the program will be successful, applicants will not be considered for admission with a grade lower than 70% in CSC110Y1, CSC148, CSC165, MAT137Y1, and STA130H1, or lower than 77% in CSC111H1 (MAT157Y1 grades will be adjusted to account for the course's greater difficulty). Obtaining these minimum grades does not guarantee admission to the program.
 
 If you were admitted as an in-stream computer science student, you have an additional benefit. **At least 20 spots** will be reserved for in-stream CS first years who complete the requirements. In other words, out of the in-stream first years that apply for the Data Science Specialist, the top 20 (or more) will be admitted to the Specialist. The rest may get in if their grades are competitive (like non-stream students). The rest will be combined with the out-of-stream applicants, and the spots will be given in order from highest to least average, like the CS out-of-stream selection process. Out-of-stream students will also need to complete the supplemental application, like for CS.
 
