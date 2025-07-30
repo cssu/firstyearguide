@@ -349,11 +349,9 @@ Here at St. George, the Faculty of Arts & Science has this policy in which it en
 Requirements as quoted from the ArtSci Calendar are:
 
 > - Completion of at least 4.0 FCEs
-> - Complete the following Courses with the minimum required grade
->
->   - CSC110Y1 (70%)
->   - CSC111H1 (77%)
->
+> - Complete both the following Courses with the minimum required grade:
+>   - CSC110Y1 (70%)
+>   - CSC111H1 (77%)
 > - Take and Pass either of MAT137Y1 or MAT157Y1
 
 This is a huge change from prior years, where the variable cutoff existed. This new format is here to provide a sense of stability and allows you to set a clear goal and focus on the course content.
@@ -409,17 +407,17 @@ Data Science is a recently added Specialist program co-offered by the Department
 
 There are specific admission requirements that first years must complete on top of the existing CS requirements.
 
-> CSC110Y1 and CSC111H1 or CSC148\
->  MAT137Y1 or​ MAT157Y1\
->  **STA130H1** \*
-\* Please note that while CSC165 is not required at the time of application to the Data Science Specialist program, it remains a program requirement and is a prerequisite for CSC236. If you are not planning on taking CSC240, it is highly recommended that you take CSC165 in the winter of your first year.
-\* This course is the additional course requirement that differentiates CS and Data Science. You must take the course in your first year to qualify for the stream benefits.
+> - CSC110Y1 and CSC111H1 or CSC148\
+> - MAT137Y1 or​ MAT157Y1\
+> - **STA130H1** 
+ Please note that while CSC165 is not required at the time of application to the Data Science Specialist program, it remains a program requirement and is a prerequisite for CSC236. If you are not planning on taking CSC240, it is highly recommended that you take CSC165 in the winter of your first year. <br>
+ This course is the additional course requirement that differentiates CS and Data Science. You must take the course in your first year to qualify for the stream benefits.
 
 To ensure that students admitted to the program will be successful, applicants will not be considered for admission with a grade lower than 70% in CSC110Y1, CSC148, CSC165, MAT137Y1, and STA130H1, or lower than 77% in CSC111H1. ( MAT157Y1 grades will be adjusted to account for the course's greater difficulty.) Obtaining these minimum grades does not guarantee admission to the program.
 
 If you were admitted as an in-stream computer science student, you have an additional benefit. **At least 20 spots** will be reserved for in-stream CS first years who complete the requirements. In other words, out of the in-stream first years that apply for the Data Science Specialist, the top 20 (or more) will be admitted to the Specialist. The rest may get in if their grades are competitive (like non-stream students). The rest will be combined with the out-of-stream applicants, and the spots will be given in order from highest to least average, like the CS out-of-stream selection process. Out-of-stream students will also need to complete the supplemental application, like for CS.
 
-**NOTE** At program enrollment time, you can apply for multiple Specialists/Majors/Minors, a common combination of which is a DS Spec + CS Spec/Major. Depending on which ones you get, you can choose the set you want to continue with. Backups are important.
+**NOTE:** At program enrollment time, you can apply for multiple Specialists/Majors/Minors, a common combination of which is a DS Spec + CS Spec/Major. Depending on which ones you get, you can choose the set you want to continue with. Backups are important.
 
 ---
 
@@ -462,17 +460,16 @@ Unfortunately, racism and prejudice exist, even at an academic institution like 
 
 Having a school/life balance is especially important when you’re in university. While there may be immense pressure from academics, you should make sure you give time to yourself as well. You can check out this huge list of clubs and student groups, which you can join [check this link](https://sop.utoronto.ca/) or visit the clubs fair during the first week of classes. For more CS related clubs, do check our list of CS clubs [here](https://github.com/cssu/cssu.ca/tree/2efa9bf9a1ab898d6305d3253be58a6994505201/_posts/clubs) (it will be updated soon).
 
-To hear about experiences from two clubs, WICS and UTCG, take a listen to these two episodes of Room 2250:\
-[WICS](https://open.spotify.com/episode/0miTXJpfrMTo1XsnRjh4yQ?si=xC03o9NUSb-U-eBb4gnapg)\
-[UTCG](https://open.spotify.com/episode/1r9rMTmdCu3GRcFFSDAQfr)
+To hear about experiences from two clubs, WICS and UTCG, take a listen to these two episodes of Room 2250:
+- [WICS](https://open.spotify.com/episode/0miTXJpfrMTo1XsnRjh4yQ?si=xC03o9NUSb-U-eBb4gnapg)
+- [UTCG](https://open.spotify.com/episode/1r9rMTmdCu3GRcFFSDAQfr)
 
 You might also want to consider joining an FLC (First Year Learning Community). Basically, you get a group of other students who are taking the same Computer Science courses as you, and you get an upper-year mentor along with department members who will help guide you through your courses, uni, and life in general. It’ll help you make some friends, be in the know, and get some real mentorship. Check out more info and apply [here](https://learningcommunities.utoronto.ca/index.php/ex-1/find-your-flc/computer-science/).
 Note that you can only apply for these in the summer – apply early!
 
-Also, do take a look at applying to be a First-year Representative here at the CSSU. You will be responsible for presenting your interests and issues to the CSSU, and for spreading information and updates to your classmates. Alternatively, you can also be a General Council member – check out the main page for more details on how to apply!
+Also, do take a look at applying to be a *First-year Representative* here at the CSSU! You will be responsible for presenting your interests and issues to the CSSU, and for spreading information and updates to your classmates. Alternatively, you can also be a General Council member – check out the main page for more details on how to apply!
 
 There are also lots of events which you can attend and participate in – follow us on Facebook and Instagram to get updates on all the events which the CSSU runs!
-
 
 ### Hackathons
 
@@ -494,7 +491,7 @@ For more information on undergrad research, listen to Room 2250's Episode on [Re
 
 In previous years, students would be able to access the Professional Experience Year Co-op Program (or PEY for short) - in short, this was a program where students finishing their 2nd or 3rd years could work for a 12-16 month period at a relevant company for experience and, of course, money! In recent years, however, this has been replaced with ASIP.
 
-ASIP is a program led by the ArtSci; after completion of your first year of studies (4.0 - 8.5 credits completed), full-time students can apply to the ASIP stream; while not exclusive for CS students, I will note that there are a great many resources dedicated specifically to help CS students secure research and employment opportunities and the population is overwhelming composed of CS students.
+ASIP is a program led by the Arts & Science Department (like a bigger umbrella department which looks over CS). After completion of your first year of studies (4.0 - 8.5 credits completed), full-time students can apply to the ASIP stream; while not exclusive for CS students, I will note that there are a great many resources dedicated specifically to help CS students secure research and employment opportunities and the population is overwhelming composed of CS students.
 ASIP's big draw is mainly access to the U of T Job Portal as well as their many professional resources; we're talking resume reviews, industry nights, recruiter events, networking fairs - you name it and ASIP has it.
 Do note that once you are in the ASIP stream, you will be subject to extra fees and that you will have to take two extra ASIP courses (although these are very light in terms of workload).
 
@@ -513,7 +510,7 @@ Click on any of the links to go there:
 - [Signup for the CSSU Newsletter](https://cssu.us10.list-manage.com/subscribe/post?u=987f258df56af54075e2c9696&id=6217e7727d)
 - Also, read the department emails that you get regularly, as they have awesome information.
 
-**_Disclaimer_**: On Reddit (and any other social media platform, to be honest), the most vocal accounts often tend to be those of students who are misinformed. You can still find lots of good information and discussions on the UofT subreddit (or any platform), but you should learn how to filter through the misinformed comments and avoid the trolls. Always make sure you are well-informed and practice good judgment. You win or you learn. Or you troll (Booooooo.).
+**_Disclaimer_**: On Reddit (and any other social media platform, to be honest), the most vocal accounts often tend to be those of students who are misinformed. You can still find lots of good information and discussions on the UofT subreddit (or any platform), but you should learn how to filter through the misinformed comments and avoid the trolls. Always make sure you are well-informed and practice good judgment. You win or you learn. Or you troll (Booooooo).
 
 ---
 ## Finances
