@@ -7,8 +7,12 @@ summaryImage: "first_year.jpg"
 ---
 
 2025 Edition Version 1.5 - Last Edit July 30, 2025
-
-By: Edison Y. - Class of 2027, Computer Science Specialist, VP of Internal Relations
+<p align="left">
+  <img src="https://media.giphy.com/media/kiIzRA15EpUsOuiK9J/giphy.gif" alt="Hello Gif" />
+</p>
+By: Edison Y. - Class of 2027\
+    Computer Science Specialist\
+    VP of Internal Relations
 
 2020 Author's Note:
 
@@ -232,7 +236,7 @@ CSC110Y1 is a half-year (semester) course; this covers content relevant to CSC10
 CSC111H1 is a normal half-year course offered in the winter semester as a direct continuation of CSC110Y1. Content is more abstract and theoretical than 110; principally, you'll be investigating Recursion and Data Structures to help organize your programs and optimize runtime. 
 
 It should be noted that **neither of these courses assumes any prior experience in programming or Python;** even if it's your first time coding, you'll totally be able to learn and succeed!
-Naturally, you should plan your course load accordingly; if you're following a typical 5.0 credit per year full-time course load, you would ideally split that as 2.5 credits per term - that is, 5 half-year courses per term. (Full Year courses such as MAT137/MAT157 take a half credit per each term). CSC110 would take 1 of those 5 spots in the fall semester, leaving 4 electives (1 of which would be taken up by MAT137/MAT157). In the winter semester, 1 spot is taken by CSC111 and 1 by your choice of Calculus, leaving 3 electives for students strictly aiming for the CS Major/Specialist; note that DS Specialists ***must take STA130H1***. Below is a sample look at a timetable that summarizes this.
+Naturally, you should plan your course load accordingly; if you're following a typical 5.0 credit per year full-time course load, you would ideally split that as 2.5 credits per term - that is, 5 half-year courses per term. (Full Year courses such as MAT137/MAT157 take a half credit per each term). CSC110 would take 1 of those 5 spots in the fall semester, leaving 4 electives (1 of which would be taken up by MAT137/MAT157). In the winter semester, 1 spot is taken by CSC111 and 1 by your choice of Calculus, leaving 3 electives for students strictly aiming for the CS Major/Specialist; note that DS Specialists ***must take STA130H1***. <!-- Below is a sample look at a timetable that summarizes this. -->
 
 <!-- <Figure src="timetable.png" alt="The sample timetable is divided into two columns for Fall Term and Winter Term. Under Fall Term, it lists MAT137Y / MAT157Y, CSC110Y, Elective 1a, and Elective 2a. Under Winter Term, it lists CSC111H, STA130H (if interested in Data Science), or elective, Elective 1b, and Elective 2b." /> -->
 
@@ -565,6 +569,7 @@ Big thanks to all the CSSU execs for helping out with the updating of this guide
 Special thanks to Chen for reading the guide as soon as I finished my drafts, Pratibha for adding on lots of good information for FTL, Adi for reviewing my PRs and not sleeping when he really should be, and Amna for carefully reviewing this 10,000+ word document with her excellent feedback as well as adding critical information to the ASIP and program enrollment sections!<br>
 &nbsp;&nbsp;&nbsp;&nbsp; &dash;&nbsp; Edison Yao (Lead Author)
 <!-- Don't ask me why I used this way to format it (- Adi) -->
+<!-- Of course I will, what the hell is this garbage?????? (-Edison)-->
 
 
 **Reviewers/Contributors for the 2020 Version**:\
