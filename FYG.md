@@ -33,9 +33,9 @@ Original Credits for 2020 and 2018 Version (from which a lot of the content is s
 By: Anujan M, Clara S, and the CSSU Team
 
 ---
-<center>
-    <img src="https://media.giphy.com/media/kiIzRA15EpUsOuiK9J/giphy.gif" alt="Hello Gif" />
-</center>
+<p align="center">
+  <img src="https://media.giphy.com/media/kiIzRA15EpUsOuiK9J/giphy.gif" alt="Hello Gif" />
+</p>
 
 Before anything, on behalf of the Computer Science Student Union (CSSU) and the CS community at U of T, we would like to congratulate everyone who has received an offer of admission to Computer Science at the University of Toronto St. George campus (or we hope you're considering / will get accepted). We're happy to have you!
 
