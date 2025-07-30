@@ -74,10 +74,10 @@ The CSSU also hosts a ton of different events, including game nights, pancake br
 </div>
 
 Author's note: If you play Smash Ultimate, you should stop by the lounge - we have been closely collaborating with UT Smash for their Friday and monthly tournaments. I picked up the game around the second semester of my second year and would love to find another excuse to play!
-<!-- Comment: Kinda Spoopy not recommended.
+
  <div style="text-align: center;">
     <img src="https://gifdb.com/images/high/sephiroth-jump-scare-scene-g7thgnoss2hlqcus.webp" alt="Alien_sword_man_hunk_thingie" />
-</div> -->
+</div>
 
 To make the transition to university a little smoother, we also run the annual First-Year CS Orientation, which happens at the beginning of the year for students to get to know each other and to be introduced to some great info. Stay tuned for more details later this summer on how it's being reworked!
 
