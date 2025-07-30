@@ -385,7 +385,7 @@ Supplemental applications will be vetted carefully by the reviewers, particularl
 
 For more info, visit the [CS Department Admissions Page](http://web.cs.toronto.edu/program/ugrad/admission.htm)
 
-####What if I want to pursue Data Science?
+#### What if I want to pursue Data Science?
 
 So throughout this whole guide, we’ve been foreshadowing the Data Science Specialist program *à la Sephiroth* - but what is it, exactly? 
 Data Science is a recently added Specialist program co-offered by the Department of Statistics and Computer Science. As quoted from the [calendar](https://fas.calendar.utoronto.ca/section/Computer-Science#programs_view-block_2-0), *"The Data Science Specialist program prepares students for work in the Data Science industry or government and for graduate studies in Data Science, Computer Science, or Statistics. Students in the program will benefit from a range of advanced courses in Computer Science and Statistics offered by the University of Toronto, as well as from a sequence of three integrative courses designed especially for the program."*
@@ -480,9 +480,6 @@ Do note that once you are in the ASIP stream, you will be subject to extra fees 
 ## Important Links
 
 Click on any of the links to go there:
-
-{ /* \\[CS Community Team]() (Use your UofT Email to make an account on the page) Coming Soon */}
-
 - [Department Discourse Page](https://bb.teach.cs.toronto.edu/)
 - [Room 2250 Podcast](https://open.spotify.com/show/3dNTFMwEqbXO7fosklIP0m)
 - [ArtSci Site](http://www.artsci.utoronto.ca/current)
@@ -540,6 +537,11 @@ Pratibha Thakur: Class of 2026, CSSU Co-President\
 Aditya Gautam: Class of 2027, CSSU Treasurer\
 Yanzhen Chen: Class of 2027, CSSU VP of External Relations\
 Edison Yao: Class of 2027, CSSU VP of Internal Relations
+
+2025 Credits Follow:\
+Big thanks to all the CSSU execs for helping out with the updating of this guide! \
+Special thanks to Chen for reading the guide as soon as I finished my drafts, Pratibha for adding on lots of good information for FTL, Adi for reviewing my PRs and not sleeping when he really should be, and Amna for carefully reviewing this 10,000+ word document with her excellent feedback as well as adding critical information to the ASIP and program enrollment sections!
+- Edison Yao
 
 Reviewers/Contributors for the 2020 Version:\
 Lana El Sanyoura: Class of 2020, John H. Moss Scholar, Hello Girl Co-founder\
