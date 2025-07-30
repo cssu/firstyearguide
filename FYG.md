@@ -34,7 +34,7 @@ By: Anujan M, Clara S, and the CSSU Team
 
 ---
 <div style="text-align: center;">
-    <image src="https://media.giphy.com/media/kiIzRA15EpUsOuiK9J/giphy.gif" alt="Hello Gif" />
+    <img src="https://media.giphy.com/media/kiIzRA15EpUsOuiK9J/giphy.gif" alt="Hello Gif" />
 </div>
 
 Before anything, on behalf of the Computer Science Student Union (CSSU) and the CS community at U of T, we would like to congratulate everyone who has received an offer of admission to Computer Science at the University of Toronto St. George campus (or we hope you're considering / will get accepted). We're happy to have you!
