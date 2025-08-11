@@ -331,11 +331,13 @@ So you’ve gotten into the courses you like and you’ve planned out your timet
 6. **Community**
 
  Get involved with the CS community! U of T has tons of different CS-oriented clubs, study groups, and more!
-We have a page of >?<br>
-- Also see Finding your community under Mental Health
 
-## (TODO: Community Section)
-   
+If you want to jump right into checking out the different CS-oriented clubs available to you, feel free to continue down to the **How To Get Involved** section. 
+
+If you're interested in creating study groups, we'd highly encourage you check out [**Recognized Study Groups**](https://sidneysmithcommons.artsci.utoronto.ca/recognized-study-groups/)! Students from the same courses and course sections are able to find each other through RSG and connect in official study groups. The organization is mostly left up to the students themselves, but many students meet regularly on weekly bases to go over lecture material and study for assessments. Each RSG will have someone acting as the group's lead, and the student leading the group is eligible for CCR recognition.
+
+For some other structured opportunities for engaging with the CS community, the Sidney Smith Commons offers several good programs worth exploration. Chief among them are the [**First Year Learning Communities (FLC)**](https://www.artsci.utoronto.ca/future/academic-opportunities/first-year-learning-communities) and [**Second Year Learning Communities (SLC)**](https://www.artsci.utoronto.ca/current/academics/learning-communities). In FLCS and SLCs, small groups of first or second-year students in the same discipline meet bi-weekly with faculty advisors, staff, and peer mentors to share advice, build connections, and explore academic and career pathways. Programming can include academic skill development, networking with faculty and alumni, workplace visits, and ongoing guidance from upper-year mentors, helping students strengthen their academic independence and sense of community. It's a great opportunity to get to know fellow students in your program and acquire helpful skills and resources along the way!
+
 ---
 ## Program Admission
 
