@@ -208,7 +208,7 @@ Here are some courses that have been previously offered by ArtSci;
 - CSC196H1 - Great Ideas In Computing
 - CSC197H1 - Big Data and Privacy
 
-New courses come up every year, so feel free to do yourself a favor and check out t
+New courses come up every year, so feel free to do yourself a favor and check them out. 
 
 Who knows? From taking a course outside your field, you might find something that interests you enough for further study... or just the credit.
 
@@ -239,9 +239,7 @@ CSC110Y1 is a half-year (semester) course; this covers content relevant to CSC10
 CSC111H1 is a normal half-year course offered in the winter semester as a direct continuation of CSC110Y1. Content is more abstract and theoretical than 110; principally, you'll be investigating Recursion and Data Structures to help organize your programs and optimize runtime. 
 
 It should be noted that **neither of these courses assumes any prior experience in programming or Python;** even if it's your first time coding, you'll totally be able to learn and succeed!
-Naturally, you should plan your course load accordingly; if you're following a typical 5.0 credit per year full-time course load, you would ideally split that as 2.5 credits per term - that is, 5 half-year courses per term. (Full Year courses such as MAT137/MAT157 take a half credit per each term). CSC110 would take 1 of those 5 spots in the fall semester, leaving 4 electives (1 of which would be taken up by MAT137/MAT157). In the winter semester, 1 spot is taken by CSC111 and 1 by your choice of Calculus, leaving 3 electives for students strictly aiming for the CS Major/Specialist; note that DS Specialists ***must take STA130H1***. <!-- Below is a sample look at a timetable that summarizes this. -->
-
-<!-- <Figure src="timetable.png" alt="The sample timetable is divided into two columns for Fall Term and Winter Term. Under Fall Term, it lists MAT137Y / MAT157Y, CSC110Y, Elective 1a, and Elective 2a. Under Winter Term, it lists CSC111H, STA130H (if interested in Data Science), or elective, Elective 1b, and Elective 2b." /> -->
+Naturally, you should plan your course load accordingly; if you're following a typical 5.0 credit per year full-time course load, you would ideally split that as 2.5 credits per term - that is, 5 half-year courses per term. (Full Year courses such as MAT137/MAT157 take a half credit per each term). CSC110 would take 1 of those 5 spots in the fall semester, leaving 4 electives (1 of which would be taken up by MAT137/MAT157). In the winter semester, 1 spot is taken by CSC111 and 1 by your choice of Calculus, leaving 3 electives for students strictly aiming for the CS Major/Specialist; note that DS Specialists ***must take STA130H1***.
 
 ---
 ### Students that were not admitted to the CS Stream (Mathematical and Physical Sciences, Life Science, Humanities, etc.)
@@ -264,9 +262,9 @@ Also, look at the department’s [page](https://web.cs.toronto.edu/undergraduate
 ---
 ### Which Math Course Should I Take?
 <p align="center" >
-    <img src="Screw_you_Livshits_Adi.png" alt="Asiiiiiiff..." width = "400" /> <br> 
-  MAT237 my beloved... 😍
+    <img src="https://www.clickvieweducation.com/_next/image?url=https%3A%2F%2Fcms.clickvieweducation.com%2Fwp-content%2Fuploads%2F2025%2F03%2FInternational-Day-of-Mathematics-Activities.png&w=3840&q=100"  width = "400" />
 </p>
+
 Before we go any further, there are a few good official resources for this section; check [this guide to First-Year Math courses](https://www.mathematics.utoronto.ca/undergraduate/current-students/guide-first-year-mathematics) and also [the MAT137Y1 vs MAT157Y1 portion of the Incoming First-Year CS webpage](https://web.cs.toronto.edu/undergraduate/incoming).
 
 So yes, you’re thinking – this is a CS guide! Why is it talking about math courses? Mathematics and Computer Science go hand-in-hand (in particular, CSC165 and all the theory courses have a very mathematical approach). We are very much like our math counterparts on the theoretical side. This is why you'll pick a calculus course in your first year, and your options are highly varied.
@@ -355,9 +353,8 @@ If you're interested in creating study groups, we'd highly encourage you check o
 
 For some other structured opportunities for engaging with the CS community, the Sidney Smith Commons offers several good programs worth exploration. Chief among them are the [**First Year Learning Communities (FLC)**](https://www.artsci.utoronto.ca/future/academic-opportunities/first-year-learning-communities) and [**Second Year Learning Communities (SLC)**](https://www.artsci.utoronto.ca/current/academics/learning-communities). In FLCS and SLCs, small groups of first or second-year students in the same discipline meet bi-weekly with faculty advisors, staff, and peer mentors to share advice, build connections, and explore academic and career pathways. Programming can include academic skill development, networking with faculty and alumni, workplace visits, and ongoing guidance from upper-year mentors, helping students strengthen their academic independence and sense of community. It's a great opportunity to get to know fellow students in your program and acquire helpful skills and resources along the way!
 
-- Also see: _Finding your community_ under the [Mental Health section](#mental-health)
-   
----
+Also see: _Finding your community_ under the [Mental Health section](#mental-health)
+
 ## Program Admission
 
 Okay, we've teased you for long enough - now for the big CS elephant in the room.
@@ -367,7 +364,7 @@ Here at St. George, the Faculty of Arts & Science has this policy in which it en
 
 ### In-stream
 
-Requirements as quoted from the ArtSci Calendar are:
+In-stream requirements, as quoted from the ArtSci Calendar, are:
 
 > - Completion of at least 4.0 FCEs
 > - Complete both the following Courses with the minimum required grade:
@@ -419,7 +416,7 @@ Eventually, you’ll be asked to complete a supplemental application – what do
 Be wary – this supplemental application is **not** something you can plug into a chatbot! This carries a considerable amount of weight for the Department to consider your case, and oftentimes, a strong supplemental can resurrect your offer from the dead! 
 Supplemental applications will be vetted carefully by the reviewers, particularly for AI content, so be sure that you’re writing something for real. Need help? Reach out for writing support!
 
-For more info, visit the [CS Department Admissions Page](http://web.cs.toronto.edu/program/ugrad/admission.htm)
+For more info, visit the [CS Department Admissions Page](http://web.cs.toronto.edu/program/ugrad/admission.htm).
 
 ### What if I want to pursue Data Science?
 
@@ -472,10 +469,6 @@ The University of Toronto is a diverse campus with students from around the worl
 > We all need to work together and listen to each other. Listen, empathize, and act.
 
 Unfortunately, racism and prejudice exist, even at an academic institution like UofT. I hope that people reading this will think about these statements and their actions. If you feel like you don't belong, remember that there are groups, communities, and good people on campus that can help you. Never lose faith in humanity.
-<!-- Comment: Doesn't load
- <p align="center">
-    <img src="https://media1.tenor.com/images/57d309947d1ce3cd90a26d136d0a3372/tenor.gif?itemid=17385373" alt="Inspiration GIF" />
-</p> -->
 
 ---
 ## How to Get Involved
@@ -491,12 +484,13 @@ Note that you can only apply for these in the summer – apply early!
 
 Also, do take a look at applying to be a *First-year Representative* here at the CSSU! You will be responsible for presenting your interests and issues to the CSSU, and for spreading information and updates to your classmates. Alternatively, you can also be a General Council member – check out the main page for more details on how to apply!
 
-There are also lots of events which you can attend and participate in – follow us on Facebook and Instagram to get updates on all the events which the CSSU runs!
+There are also lots of events which you can attend and participate in – follow us on Facebook and Instagram to get updates on all the events that the CSSU runs!
 
 ### Hackathons
 
 For those of you who don’t know what a hackathon is, it’s basically a 1-3 day event where you and your team get together to build something, like an app which solves a real-world problem, or just something which you think is really cool in general - and you can win prizes for it, learn new technologies and get free food!!! There are a lot of hackathons that you can join. It’s free about 95% of the time, and you get the opportunity to meet lots of company reps and students from around the globe. UofTHacks is our premier hackathon (that’s hosted on campus), so be on the lookout for more details later this year. Also, check out [MLH](mlh.io) for a full list of hackathons both in Canada and around the world (A lot of the US ones are popular as well, if you’re comfortable with going to the United States for a weekend). Remember, you don’t have to be experienced to attend a hackathon - there are lots of workshops offered throughout these events, and you can always just go for the experience, which we can confirm is awesome.
 If you really, *really*, **really** wanna be on top of things, check out the [Student Group Opportunities Board](https://sop.utoronto.ca/opportunities/) or the weekly DCS newsletter on the [CS Undergrad Quercus Page](https://q.utoronto.ca/enroll/EMFCPB).
+
 <p align="center">
     <img src="https://media1.tenor.com/images/b52e33167d9104c39219c9d9ba90b2b2/tenor.gif?itemid=16684096" alt="If you're not making your moves, you're standing still GIF" />
 </p>
@@ -561,8 +555,6 @@ There are also lots of scholarships available for you, so you should check if yo
 ## Parting Words
 
 Well, you made it to the end of the guide! If you read all of it, congratulations and thank you. If not, well, take a break and come back to read the rest. If you just skipped to the bottom, go back to the top and read the whole thing. After all, we made this thing to help you guys! (Why would you skip to the end? Thought there would be a summary of the main points?)
-
-<!-- <Figure src="asking_questions.png" alt="Meme format featuring Drake in two panels. In the top panel, Drake is making a dismissive gesture with his hand and has a displeased expression. The top text reads: 'Not reading the guide and asking questions that people have already answered.' In the bottom panel, Drake is smiling and pointing approvingly. The bottom text reads: 'Reading the guide, searching and then asking the question if it has not been answered." /> -->
 
 We would like to thank all of the people who helped contribute to this guide, making this a possibility.
 
