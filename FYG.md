@@ -1,12 +1,12 @@
 ---
 title: "First Year's Guide to CS"
-date: 2026-06-01
+date: 2026-09-11
 hideLastModified: true
 summary: "A Guide for First-Year CS Students!"
 summaryImage: "first_year.jpg"
 ---
 
-2026 Edition Version 1.0 - Last Edit June 1, 2025
+2026 Edition Version 1.0 - Last Edit September 11th, 2026
 
 <p>
   <img src="chud.png" alt="Reaper" width="100" /> <br>
@@ -73,7 +73,7 @@ So since this guide is made in coordination with the CSSU, we would like to intr
     <img src="https://media.giphy.com/media/7FDtvM9nIN6Cs/giphy.gif" alt="GIF of a shaking Neapolitan ice-cream sandwich" />
 </p>
 
-The CSSU also hosts a ton of different events, including game nights, pancake breakfasts, town halls, and academic events, where students get to socialize with each other over pancakes, video games, and stuff they're interested in. We also sport plenty of amenities in the office; I'm talking televisions, game consoles (Xbox Original/360/X, PS2/3, Gamecube, Switch), a microwave/sink/kettles, fridges, and more! Although we represent the CS students at UTSG, the community and Bahen lounge are open to anyone and everyone from all backgrounds and fields of study; feel free to drop by, say hello, and introduce yourself! You can sign up for our email newsletter that will contain information on upcoming events [here](https://cssu.us10.list-manage.com/subscribe/post?u=987f258df56af54075e2c9696&id=6217e7727d) or join our Discord [here](https://discord.gg/R9hneMaafD).
+The CSSU also hosts a ton of different events, including game nights, pancake breakfasts, town halls, and academic events, where students get to socialize with each other over pancakes, video games, and stuff they're interested in. We also sport plenty of amenities in the office; I'm talking televisions, game consoles (Xbox Original/360/X, PS2/3, Gamecube, Switch), a microwave/sink/kettles, fridges, and more! Although we represent the CS students at UTSG, the community and Bahen lounge are open to anyone and everyone from all backgrounds and fields of study; feel free to drop by, say hello, and introduce yourself! You can sign up for our email newsletter that will contain information on upcoming events [here](https://docs.google.com/forms/d/e/1FAIpQLSdzZiUOXNqu9cIB_lH1hIA0c3db9qR0LgnoCHYttxUsWRVrfg/viewform) or join our Discord [here](https://discord.gg/R9hneMaafD).
 
 <p>
     <img src="https://media.giphy.com/media/m8XguqDisAIgag7oqT/giphy.gif" alt="A smorgasbord of Super Smash Bros. Ultimate characters standing at the edge of a cliff, from the opening cinematic. " />
@@ -127,11 +127,11 @@ Many courses use [Piazza](https://piazza.com/), a course-based forum board where
    
  This is the most used login you'll need at U of T (after your UTORid login for ACORN). 
 
-Keep in mind that CS students have 24/7 access to the labs (and Bahen) with their T-Cards. For more information about the labs, visit [their site](https://www.teach.cs.toronto.edu/), which contains [room numbers for the labs](https://www.teach.cs.toronto.edu/faq.html#GS1) and [status/uptime pages for UofT, teach servers, and Markus](https://status.teach.cs.toronto.edu/).
+Keep in mind that CS students have 24/7 access to the labs (and Bahen) with their T-Cards. For more information about the labs, visit [their site](https://www.teach.cs.toronto.edu/), which contains [room numbers for the labs](https://www.teach.cs.toronto.edu/faq/) and [status/uptime pages for UofT, teach servers, and Markus](https://status.teach.cs.toronto.edu/).
 
 **Help Centre**
 
-As one of the best places to get official help in first and second-year courses, the Bahen CS Help Center has TAs and professors ready to help you answer your questions. For a full schedule of when it’s open and who's there, visit [this link](http://web.cs.toronto.edu/program/ugrad/ug_helpcentre.htm). For upper-year courses, you should be able to get help directly from the course-specific instructors/teaching assistants (TAs), rather than general Help Centre TAs. Getting help is really, REALLY important, and you should make full use of these hours. **Note for this year, it is unknown how the help centre will be run. Look for updates from your profs.**
+As one of the best places to get official help in first and second-year courses, the Bahen CS Help Center has TAs and professors ready to help you answer your questions. Drop-in, in-person academic advising is located Mondays to Fridays from 10 A.M - 4 P.M in BA4027. For upper-year courses, you should be able to get help directly from the course-specific instructors/teaching assistants (TAs), rather than general Help Centre TAs. Getting help is really, REALLY important, and you should make full use of these hours. **Note for this year, it is unknown how the help centre will be run. Look for updates from your profs.**
 
 **Undergraduate Office aka “UGO”**
 
@@ -160,14 +160,14 @@ Click on the title to watch the video on YouTube (It does have subtitles, so yay
 
 **[Calvin’s Insider Tips](https://www.youtube.com/watch?v=RW_Mr85HFto)**
 
-A good tip: you can access course evaluations submitted by past students for more courses on [Quercus](https://q.utoronto.ca), which you can access by logging in (with your joinID, which will soon become your UTORid) and selecting course evaluations from the drop-down menu. You can't see specific student comments, but you can see the numerical stats; this is an especially great way to learn about elective and breadth courses! (From [u/zyjerry](https://www.reddit.com/user/zyjerry/) on Reddit)
+A good tip: you can access course evaluations submitted by past students for more courses on [Quercus](https://q.utoronto.ca), which you can access by logging in (with your joinID, which will soon become your UTORid) and selecting course evaluations from the drop-down menu. You can't see specific student comments, but you can see the numerical stats; this is an especially great way to learn about elective and breadth courses! (From u/zyjerry on Reddit)
 Additionally, it can be a good idea to consult RateMyProfs for more details regarding certain instructors - however, take these ratings with a grain of salt!
 
 For more important videos with tips and information about university and course enrollment, check out the ArtSci YouTube channel [here](https://www.youtube.com/channel/UCXRrb_NqDU5IN2ensLpWbcg/videos). For an interview with Lana about her achievements and advice, check out [this episode of Room 2250](https://open.spotify.com/episode/3HZ6rqlLT1n07o1Rn2xLzQ).
 
 ### Course Planning Tools/Things to know
 
-There are many different fields in CS and a lot of courses that range from theory to networking to graphics and everything in between. [Courseography](https://courseography.cdf.toronto.edu/graph) is an open-source project started by Prof. David Liu that charts out all the CS courses and program areas with their prerequisites. You could look at what upper-year courses interest you and take their necessary prerequisites. Note that the course offerings have not been updated to reflect the new courses for the 2025/2026 school year (as of publishing), and as always, the [calendar](https://fas.calendar.utoronto.ca/section/Computer-Science) is the place for the most up-to-date and official information.
+There are many different fields in CS and a lot of courses that range from theory to networking to graphics and everything in between. [Courseography](https://courseography.cdf.toronto.edu/graph) is an open-source project started by Prof. David Liu that charts out all the CS courses and program areas with their prerequisites. You could look at what upper-year courses interest you and take their necessary prerequisites. Note that the course offerings have not been updated to reflect the new courses for the 2025/2026 school year (as of publishing), and as always, the [calendar](https://artsci.calendar.utoronto.ca/) is the place for the most up-to-date and official information.
 
 ### What is a focus?
 
@@ -201,11 +201,11 @@ Good news: Category 5 is automatically covered by your mandatory CS courses! The
 These seminars are small group courses that focus on specific topics and interests. You can find a full list [here]( https://artsci.calendar.utoronto.ca/section/First-Year-Foundations). 
 Here are some courses that have been previously offered by ArtSci;
 
-- WDW153H1 - Popular Culture Today I: Issues and Perspectives and WDW154H1 - Popular Culture Today II: Special Topics
+- HIS111H1 - Artificial Intelligence and the Fourth Industrial Revolution: Lessons from History 
 - WDW196H1 - From Rayguns to Light Sabers: Science Fiction in Contemporary Culture
 - VIC112H1 - Puzzles, Discovery and the Human Imagination
 - SMC198H1 - How to Study Video Games
-- NEW103H1 - Digital Technology and Society
+- NEW103H1 - Digital Technology, Society, and Power
 - CSC196H1 - Great Ideas In Computing
 - CSC197H1 - Big Data and Privacy
 
@@ -262,6 +262,11 @@ Note that even if you take CSC148 and then decide that you're not ready for it a
 
 Also, look at the department’s [page](https://web.cs.toronto.edu/undergraduate/first-year-courses) for more info on how to choose your first-year CS courses. This doesn't mention the new in-stream version; refer to the above section for more on the in-stream site.
 
+### On CSC240 (and CSC265)
+As an option of accelerated learning, you can choose to take CSC240 in the winter, given you have at least a grade of 85% in CSC110Y1 or 85% in CSC165H1, or you have waived the course given a strong mathematics background. This will substitute CSC236 in the fall and CSC263 in the winter, and allow you to get a start on second-year courses in your first year and take CSC265. However, the people that have taken CSC240 and CSC265 have argued are one of the hardest courses offered at UofT (around half the people in the course end up dropping it). Unless youu are really interested in theoretical computer science and you are not struggling with MAT137, there's not much extra content relevant to software development. 
+
+It is not recommended to take it in second year, as usually it is only offered in the winter, forcing you to delay another year to fall to take CSC265.
+
 ---
 ### Which Math Course Should I Take?
 <p>
@@ -301,7 +306,7 @@ Any relatively modern system should be fine, regardless of the operating system,
 
 The university has provided a list of minimum and recommended specs for doing remote learning [here](https://www.viceprovoststudents.utoronto.ca/covid-19/tech-requirements-online-learning/), which also includes having a webcam available. If you are attending classes from outside of Canada, the site also provides important information about VPN access if necessary.
 
->**_Pro Tip_**: You get free software/benefits from UofT for being a student, like Amazon Prime 6 Month Trial and reduced Prime, free movie streaming (in SD) [here click on Criterion or Audio Cine Films which contain a lot of recent films](https://mediacommons.library.utoronto.ca/streaming-video). **Free** MS Office [instructions here](https://onesearch.library.utoronto.ca/ic-faq-categories/office-365-proplus), Windows 10 Education aka Windows 10 Pro for students [register here](https://uoft.onthehub.com/WebStore/Security/Signin.aspx?rurl=%2fWebStore%2fOfferingDetails.aspx%3fo%3d499fe89c-cb3a-e511-940f-b8ca3a5db7a1).
+>**_Pro Tip_**: You get free software/benefits from UofT for being a student, like Amazon Prime 6 Month Trial and reduced Prime, free movie streaming (in SD). **Free** MS Office [instructions here](https://onesearch.library.utoronto.ca/ic-faq-categories/office-365-proplus), Windows 10 Education aka Windows 10 Pro for students [register here](https://uoft.onthehub.com/WebStore/Security/Signin.aspx?rurl=%2fWebStore%2fOfferingDetails.aspx%3fo%3d499fe89c-cb3a-e511-940f-b8ca3a5db7a1).
 
 ### Tips
 
@@ -338,7 +343,7 @@ Here's a quick look at the club roster on our website;
     <img src="clubs.png" alt="CSSU Club Roster" width = "801" />
 </p>
 
-Interested in [machine intelligence](https://utmist.gitlab.io/) or [computer graphics](https://www.instagram.com/utcomputergraphics/)? Maybe [capture the flag](https://uoftctf.org/)? Perhaps [cybersecurity](https://cssa.sa.utoronto.ca/)? You name, we have it. You can even check for a more comprehensive lists of student clubs at the [Student Organization Portal](https://sop.utoronto.ca/groups/https://sop.utoronto.ca/groups/)!
+Interested in [machine intelligence](https://www.utmist.ca/) or [computer graphics](https://www.instagram.com/utcomputergraphics/)? Maybe [capture the flag](https://uoftctf.org/)? Perhaps [cybersecurity](https://cssa.sa.utoronto.ca/)? You name, we have it. You can even check for a more comprehensive lists of student clubs at the [Student Organization Portal](https://sop.utoronto.ca/groups/)!
 
 The CSSU also hosts tons of social events every year, the most popular among them being the **Teatime with Professors** events and the **Pancake Recruitment Breakfasts** - keep an eye out for these on our [Instagram](https://www.instagram.com/uoftcssu/).
 
@@ -420,11 +425,11 @@ Data Science is a recently added Specialist program co-offered by the Department
 
 There are specific admission requirements that first years must complete on top of the existing CS requirements.
 
-> - CSC110Y1 and CSC111H1 or CSC148\
-> - MAT148H1 and MAT149H1, or MAT158H1 and MAT159H1\
-> - **STA130H1** 
+> - CSC110Y1 (MIN 70%) and CSC111H1 (MIN 77%) or CSC148\
+> - MAT148H1 and MAT149H1, or MAT158H1 and MAT159H1 (MIN 70% FOR ALL)\
+> - **STA130H1** / STA261\
  Please note that while CSC165 is not required at the time of application to the Data Science Specialist program, it remains a program requirement and is a prerequisite for CSC236. If you are not planning on taking CSC240, it is highly recommended that you take CSC165 in the winter of your first year. <br>
- This course is the additional course requirement that differentiates CS and Data Science. You must take the course in your first year to qualify for the stream benefits.
+ This course is the additional course requirement that differentiates CS and Data Science. You must take the course in your first year to qualify for the stream benefits. For second year students, a STA261 mark will be used in place of STA130 for program admission purposes if you haven't completed STA130 or you have completed both STA130 and STA261. Note that STA261 requires STA257 as a prerequisite as well.
 
 To ensure that students admitted to the program will be successful, applicants will not be considered for admission with a grade lower than 70% in CSC110, CSC148, CSC165, MAT148, MAT149 and STA130H1, or lower than 77% in CSC111H1. (Note that MAT158/MAT159 grades will be adjusted to account for the greater difficulty). Obtaining these minimum grades does not guarantee admission to the program.
 
@@ -437,13 +442,13 @@ If you were admitted as an in-stream computer science student, you have an addit
 ## Mental Health
 
 Mental health is important, and taking care of yourself should be your priority. Many students find program admission to be stressful, and university in general is a giant leap from high school. Taking a reduced course load, or dropping down from hard courses to easier ones, isn't something to be ashamed of.  You should definitely do it if you feel like it will benefit your mental health. On the same note, Accessibility Services is something you should check out if you are having any mental/physical health-related problems that are getting in the way of your studies. It provides amazing support to those who are registered within it. You can get exam accommodations, extensions on assignments, and peer note takers (amongst other things), and you will also get your own advisor whom you can go to if you are having problems coping with various aspects of University. They will direct you to many resources, and will help you out the best they can. You can check out their website [here](https://www.studentlife.utoronto.ca/as). Also, the [Health and Wellness Center](https://studentlife.utoronto.ca/hwc) has medical and mental health services to help students academically and personally if you need them. 
-Specifically, please reach out to Amna Adnan, our *fantastic* 2025 Student Life & Program Assistant and CMP1 Undergrad Advisor at the following email – [cs.undergrad@utoronto.ca](mailto:cs.undergrad@utoronto.ca).
+Specifically, please reach out to Amna Adnan, our *fantastic* 2026 Student Life & Program Assistant and CMP1 Undergrad Advisor at the following email – [cs.undergrad@utoronto.ca](mailto:cs.undergrad@utoronto.ca).
 If you have any mental health concerns or problems, Amna is more than willing to help and, given her experience, is a wonderful fit for what resources or academic choices you can take to suit your wellbeing!
 The UofT Subreddit has a set of [Health and Wellness Resources](https://www.reddit.com/r/UofT/comments/6yxq87/health_wellness_resources/) as well.
 
 Something that I believe in when things get tough is hope. Sometimes things don't work out exactly as we expect. Things go wrong, bad stuff happens, but you should never give up on hope, hope that things will be better someday. Keep being true to yourself, work towards your goals, and never give up.
 
-A note directly from Amna Adnan, our 2025 Student Life & Program Assistant; 
+A note directly from Amna Adnan, our 2026 Student Life & Program Assistant; 
 
 > “Something us advisors talk a lot about is that fact that people of really high calibre get into U of T, and then they're suddenly middle of the pack when they used to be on top (because not all of these straight A students can now be on top), or they might have their first experience with rejection or failure or not meeting expectations here because they’ve been so high achieving until now - you're inevitably going to go through bumps, but it’s important to have hope and to reach out for help ASAP so that you can proactively address concerns rather than react to things going badly.”
 
@@ -472,7 +477,7 @@ Unfortunately, racism and prejudice exist, even at an academic institution like 
 ---
 ## How to Get Involved
 
-Having a school/life balance is especially important when you’re in university. While there may be immense pressure from academics, you should make sure you give time to yourself as well. You can check out this huge list of clubs and student groups, which you can join [check this link](https://sop.utoronto.ca/) or visit the clubs fair during the first week of classes. For more CS related clubs, do check our list of CS clubs [here](https://github.com/cssu/cssu.ca/tree/2efa9bf9a1ab898d6305d3253be58a6994505201/_posts/clubs) (it will be updated soon).
+Having a school/life balance is especially important when you’re in university. While there may be immense pressure from academics, you should make sure you give time to yourself as well. You can check out this huge list of clubs and student groups, which you can join [check this link](https://sop.utoronto.ca/) or visit the clubs fair during the first week of classes. For more CS related clubs, do check our list of CS clubs [here](https://www.cssu.ca/community) (it will be updated soon).
 
 To hear about experiences from two clubs, WICS and UTCG, take a listen to these two episodes of Room 2250:
 - [WICS](https://open.spotify.com/episode/0miTXJpfrMTo1XsnRjh4yQ?si=xC03o9NUSb-U-eBb4gnapg)
@@ -506,24 +511,24 @@ In previous years, students would be able to access the Professional Experience 
 
 ASIP is a program led by the Arts & Science Department (like a bigger umbrella department which looks over CS). After completion of your first year of studies (4.0 - 8.5 credits completed), full-time students can apply to the ASIP stream; while not exclusive for CS students, I will note that there are a great many resources dedicated specifically to help CS students secure research and employment opportunities and the population is overwhelming composed of CS students.
 ASIP's big draw is mainly access to the U of T Job Portal as well as their many professional resources; we're talking resume reviews, industry nights, recruiter events, networking fairs - you name it and ASIP has it.
-Do note that once you are in the ASIP stream, you will be subject to extra fees and that you will have to take two extra ASIP courses (although these are very light in terms of workload).
+Do note that once you are in the ASIP stream, you will be subject to extra fees and that you will have to take two extra ASIP courses (although these are very light in terms of workload). Additionally, ASIP has a few caveats when it comes to accepting a job offer and does not guarantee you an internship position.
 
 ---
 ## Important Links
 
 Click on any of the links to go there:
-- [Department Discourse Page](https://bb.teach.cs.toronto.edu/)
+<!-- - [Department Discourse Page](https://bb.teach.cs.toronto.edu/) -->
 - [Room 2250 Podcast](https://open.spotify.com/show/3dNTFMwEqbXO7fosklIP0m)
 - [ArtSci Site](http://www.artsci.utoronto.ca/current)
 - [ArtSci Guide to First Year](https://newstudentguide.artsci.utoronto.ca/)
 - [Services and Resources](https://newstudentguide.artsci.utoronto.ca/resources/)
 - [CSSU Resources GitHub](https://github.com/cssu/)
-- [UofT Reddit](https://www.reddit.com/r/UofT/)
-- [CS Career Questions Reddit](https://www.reddit.com/r/cscareerquestions/)
-- [Signup for the CSSU Newsletter](https://cssu.us10.list-manage.com/subscribe/post?u=987f258df56af54075e2c9696&id=6217e7727d)
+<!-- - [UofT Reddit](https://www.reddit.com/r/UofT/)
+- [CS Career Questions Reddit](https://www.reddit.com/r/cscareerquestions/) -->
+- [Signup for the CSSU Newsletter](https://docs.google.com/forms/d/e/1FAIpQLSdzZiUOXNqu9cIB_lH1hIA0c3db9qR0LgnoCHYttxUsWRVrfg/viewform)
 - Also, read the department emails that you get regularly, as they have awesome information.
 
-**_Disclaimer_**: On Reddit (and any other social media platform, to be honest), the most vocal accounts often tend to be those of students who are misinformed. You can still find lots of good information and discussions on the UofT subreddit (or any platform), but you should learn how to filter through the misinformed comments and avoid the trolls. Always make sure you are well-informed and practice good judgment.
+<!-- **_Disclaimer_**: On Reddit (and any other social media platform, to be honest), the most vocal accounts often tend to be those of students who are misinformed. You can still find lots of good information and discussions on the UofT subreddit (or any platform), but you should learn how to filter through the misinformed comments and avoid the trolls. Always make sure you are well-informed and practice good judgment. -->
 
 ---
 ## Finances
@@ -547,7 +552,7 @@ UofT also provides a starter article [here](https://undergrad.engineering.utoron
 
 The good news is that Canadian citizens/PRs/protected persons can qualify for the University of Toronto Advanced Planning for Students (UTAPS)! The great thing about this program is that you don’t have to do anything after your first year. UTAPS just uses your OSAP data, including your family income and other things (if you are from another province/country, check the UTAPS site for instructions on how to apply and criteria). If your OSAP data is low enough, you can get extra money (free money!) paid towards your tuition. However, you won’t know this magical amount till late September/early October, though it can be pretty substantial in certain cases ($4,000+, depending on need).
 
-There are also lots of scholarships available for you, so you should check if you qualify for them (check Google’s scholarships or visit the UGO for more details on computer science undergraduate scholarships. Alternatively, you can also visit [here](http://www.artsci.utoronto.ca/current/scholarships/scholarships-by-department/undergraduate-scholarships-computer-science) for more details. Also, consider checking out your college registrar for more financial aid options (bursaries and scholarships!).
+There are also lots of scholarships available for you, so you should check if you qualify for them (check Google’s scholarships or visit the UGO for more details on computer science undergraduate scholarships. Alternatively, you can also visit [here](https://future.utoronto.ca/scholarships) for more details. Also, consider checking out your college registrar for more financial aid options (bursaries and scholarships!).
 
 ---
 ## Parting Words
@@ -560,7 +565,7 @@ Well, you made it to the end of the guide! If you read all of it, congratulation
 
 We would like to thank all the people who helped contribute to this guide, making this a possibility.
 
-We hope this guide is informative to you, and if you think your peers would benefit from it too, please feel free to share it with them. If you have any suggestions or comments, feel free to email the CSSU [here](mailto:cssu@teach.cs.toronto.edu) or make a pull request/issue on the page in GitHub [here](https://github.com/cssu/first-year-guide)
+We hope this guide is informative to you, and if you think your peers would benefit from it too, please feel free to share it with them. If you have any suggestions or comments, feel free to email the CSSU [here](mailto:cssu@teach.cs.toronto.edu) or make a pull request/issue on the page in GitHub [here](https://github.com/cssu/firstyearguide/blob/main/FYG.md)
 
 Also, again please fill out [this feedback form](https://forms.gle/MGqc7bT8HAX2dkha8) to give us valuable feedback.
 
@@ -570,9 +575,9 @@ We wish you all the best in your first year and hope you make the most out of yo
 
 **Reviewers/Contributors for the 2025 Version**:\
 Amna Adnan: CS Student Life & Program Assistant\
-Pratibha Thakur: Class of 2026, CSSU Co-President\
-Aditya Gautam: Class of 2027, CSSU Treasurer\
-Yanzhen Chen: Class of 2027, CSSU VP of External Relations\
+Pratibha Thakur: Class of 2026, Former CSSU Co-President\
+Aditya Gautam: Class of 2027, Former CSSU Treasurer\
+Yanzhen Chen: Class of 2027, CSSU Co-President \
 Edison Yao: Class of 2027, CSSU VP of Internal Relations
 
 **2025 Credits Follow**:\
